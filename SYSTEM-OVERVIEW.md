@@ -1,5 +1,7 @@
 # Public Ecosystem: Full System Description
 
+> **Federated portfolio extension:** The original account-level overview is now expanded by [MULTI-ACCOUNT-TOPOLOGY.md](MULTI-ACCOUNT-TOPOLOGY.md), which reconciles all six public accounts and describes the wider cross-account system. The machine-readable federation roster is [data/federated-repositories.json](data/federated-repositories.json).
+
 ## Executive description
 
 The HuffmanMainNode public portfolio is a federated collection of open-source projects spanning public-interest research and OSINT, evidence handling, agent-to-agent communication, protocol interoperability, multi-agent orchestration, AI and cyber defense, systems research, and repository governance.
