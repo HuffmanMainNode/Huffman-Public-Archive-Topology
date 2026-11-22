@@ -60,7 +60,11 @@ for login in ACCOUNTS:
         elif classification=="controlled_test_copy": tally["controlled_test_copies"]+=1
         elif classification=="upstream_fork": tally["forks"]+=1
         else: tally["original_projects"]+=1
-        parent=r.get("parent") or {}; source=r.get("source") or {}
+        # The per-account /users/{login}/repos listing omits parent/source
+        # objects for forks. Fetch each fork's repository detail so lineage is
+        # based on GitHub's canonical parent metadata, not naming conventions.
+        details=api_get("https://api.github.com/repos/"+full) if fork else r
+        parent=details.get("parent") or {}; source=details.get("source") or {}
         upstream=parent.get("full_name") or source.get("full_name")
         upstream_url=parent.get("html_url") or source.get("html_url")
         github_description=r.get("description")
