@@ -7,16 +7,18 @@ A public, evidence-led map of original repositories owned by [HuffmanMainNode](h
 ## Snapshot
 
 - Snapshot date: 2026-11-22
-- Account search returned: 50 repositories before this topology repository was created
-- Original repositories: 36
-- Forks: 14
-- This topology repository: 1 additional index repository, excluded from the 36-project source count
+- Current account search returned: 51 public repositories
+- Original, non-fork repositories: 37 (including the profile repository and this topology index)
+- Upstream forks: 14
+- Portfolio source projects: 35 before this topology index; the topology index is the 36th non-profile project repository
+- Branches: current branch names indexed for all 37 original repositories
 - Inventory source: GitHub repository metadata, branch endpoints, and publicly available project documentation
 
-Counts describe the discovery snapshot. The catalog records per-repository evidence and limitations; it does not imply every repository is production-ready.
+This is a refreshed completeness snapshot from 2026-11-22. GitHub search returned 51 results across one populated page; all 51 repository records were checked against each repository's metadata, including the authoritative `fork` flag. The 37 non-forks and 14 forks reconcile exactly to the search result. The catalog records evidence and limitations; it does not imply every repository is production-ready.
 
 ## Start here
 
+- [System overview](SYSTEM-OVERVIEW.md): how the entire public portfolio fits together
 - [Catalog](CATALOG.md): original repositories and evidence-based summaries
 - [Topology](TOPOLOGY.md): project families and explicit integration edges
 - [Architecture overlays](OVERLAYS.md): cross-cutting planes and maturity layers
