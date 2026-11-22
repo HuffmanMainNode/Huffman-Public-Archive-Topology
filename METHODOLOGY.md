@@ -2,7 +2,7 @@
 
 ## Scope
 
-This snapshot covers public repositories returned by GitHub repository search for `user:HuffmanMainNode is:public` on 2026-11-22. It excludes private repositories and repositories owned by alternate accounts. The topology repository itself was created after the discovery snapshot and is not included in the 36-source-project count.
+This refreshed snapshot covers public repositories returned by GitHub repository search for `user:HuffmanMainNode is:public` on 2026-11-22. The query returned 51 repositories on page 1 and no results on pages 2 or 3. All 51 were checked against their individual repository metadata. The reconciliation is 37 non-forks and 14 forks. The 37 non-forks include the account profile repository and this topology repository; the remaining 35 are source-project repositories that predate this topology index. Private repositories and alternate accounts are excluded.
 
 ## Ownership classification
 
@@ -19,7 +19,7 @@ A fork may contain original changes, but this catalog does not reclassify it as 
 3. Public README and repository documentation: intended purpose, declared features, constraints, integration statements.
 4. Source-level review and tests: required before stronger claims about actual behavior, correctness, or production readiness.
 
-This pass is an inventory and architecture map, not a full code/security audit of all 36 repositories.
+This pass is an inventory and architecture map, not a full code/security audit of all 35 pre-existing source-project repositories.
 
 ## Relationship classification
 
@@ -31,7 +31,7 @@ Mermaid solid arrows in TOPOLOGY.md represent documented relationships. Dotted a
 
 ## Branch interpretation
 
-Branch names are listed as observed. This snapshot does not establish:
+Branch names were re-fetched from the GitHub branches endpoint for every one of the 37 non-fork repositories, including this topology repository. This snapshot does not establish:
 - whether a branch is merged, stale, protected, or abandoned;
 - whether its head commit is reachable from the default branch;
 - whether branch protections or rulesets exist;
