@@ -131,7 +131,8 @@
       "description": "A digital library of government repositories for Zero Trust auditing and AI/cybersecurity research.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/Protocol-Helios"
     },
     {
       "name": "Project_Lazarus_OSINT",
@@ -144,7 +145,8 @@
       "description": "Tracking financial corruption, insider trading, and dark money in politics.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/Project_Lazarus_OSINT"
     },
     {
       "name": "Cui-Bono-Audit-Tool",
@@ -157,7 +159,8 @@
       "description": "Official security audit tool.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/Cui-Bono-Audit-Tool"
     },
     {
       "name": "Curated-Modern-OSINT-Tools",
@@ -170,7 +173,8 @@
       "description": "Curated directory of modern OSINT tools.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/Curated-Modern-OSINT-Tools"
     },
     {
       "name": "Project-Helios-US-Archive",
@@ -183,7 +187,8 @@
       "description": "Structured archive for US historical, law, and crisis data.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/Project-Helios-US-Archive"
     },
     {
       "name": "Huffman-Cyber-Observatory",
@@ -196,7 +201,8 @@
       "description": "Defensive cybersecurity scanning, vulnerability intelligence, cryptographic tools, and AI-agent-ready security research.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/Huffman-Cyber-Observatory"
     },
     {
       "name": "HuffmanMainNode",
@@ -209,7 +215,8 @@
       "description": "Chief Architect Profile & Intelligence Architecture.",
       "account": "HuffmanMainNode",
       "classification": "profile",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/HuffmanMainNode"
     },
     {
       "name": "Halloween-OSINT-2026",
@@ -222,7 +229,8 @@
       "description": "Practical, local-first OSINT tools for human investigators and autonomous agents.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/Halloween-OSINT-2026"
     },
     {
       "name": "Happy-Halloween-2026",
@@ -235,7 +243,8 @@
       "description": "Open-source OSINT community announcement and project index.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/Happy-Halloween-2026"
     },
     {
       "name": "Huffman-Defensive-Intelligence",
@@ -248,7 +257,8 @@
       "description": "Open-source integration layer for decentralized intelligence, agent communication, evidence provenance, and defensive security.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/Huffman-Defensive-Intelligence"
     },
     {
       "name": "Open-Intelligence-Exchange",
@@ -261,7 +271,8 @@
       "description": "Decentralized communication framework for independent AI systems and their builders.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/Open-Intelligence-Exchange"
     },
     {
       "name": "Halloween2-OSINT-2026",
@@ -274,7 +285,8 @@
       "description": null,
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/Halloween2-OSINT-2026"
     },
     {
       "name": "Halloween-2026OSINT",
@@ -287,7 +299,8 @@
       "description": null,
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/Halloween-2026OSINT"
     },
     {
       "name": "-Open-Swarm",
@@ -300,7 +313,8 @@
       "description": "Local-first multi-agent orchestration.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/-Open-Swarm"
     },
     {
       "name": "Coming-Soon-Project-AVI",
@@ -313,7 +327,8 @@
       "description": "Coming-soon announcement for Advanced Virtual Intelligence.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/Coming-Soon-Project-AVI"
     },
     {
       "name": "OpenWorkSpace",
@@ -326,7 +341,8 @@
       "description": "Secure, modular, local-first digital workshop.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/OpenWorkSpace"
     },
     {
       "name": "Huffman-Protocol",
@@ -339,7 +355,8 @@
       "description": "Open protocol interoperability, conformance, and assurance infrastructure.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/Huffman-Protocol"
     },
     {
       "name": "Multi-Agent-Swarm-Guardrails",
@@ -352,7 +369,8 @@
       "description": "Portable open-source safety infrastructure for autonomous agents and swarms.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/Multi-Agent-Swarm-Guardrails"
     },
     {
       "name": "Huffman-Reverse-Intelligence",
@@ -365,7 +383,8 @@
       "description": "Experimental evidence-driven reverse-engineering and technical-intelligence workbench initiative.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/Huffman-Reverse-Intelligence"
     },
     {
       "name": "mesh-archivist-engine",
@@ -378,7 +397,8 @@
       "description": "Repository mesh archival and orchestration engine.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/mesh-archivist-engine"
     },
     {
       "name": "repo-mesh-blueprint",
@@ -391,7 +411,8 @@
       "description": "Federated repository mesh architectural standard.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/repo-mesh-blueprint"
     },
     {
       "name": "OIF-Research-Observatory",
@@ -404,7 +425,8 @@
       "description": "Open research observatory for AI, systems, cybersecurity, computer science, and intelligence.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/OIF-Research-Observatory"
     },
     {
       "name": "cas-xdp-supervisor",
@@ -417,7 +439,8 @@
       "description": "Defensive control plane for local host auditing and operator-approved reversible containment.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/cas-xdp-supervisor"
     },
     {
       "name": "OIF-Cognitive-Systems",
@@ -430,7 +453,8 @@
       "description": "Open research and engineering for cognition, reasoning, memory, planning, learning, and metacognition.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/OIF-Cognitive-Systems"
     },
     {
       "name": "canary-labyrinth-httpd",
@@ -443,7 +467,8 @@
       "description": "Defensive HTTP canary daemon for controlled decoy endpoints and local ingress observation.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/canary-labyrinth-httpd"
     },
     {
       "name": "OI-Swarm-Intelligence",
@@ -456,7 +481,8 @@
       "description": "Open Intelligence research for decentralized AI swarms and collective reasoning.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/OI-Swarm-Intelligence"
     },
     {
       "name": "OIF-AI-Security",
@@ -469,7 +495,8 @@
       "description": "Open AI security research and defensive engineering.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/OIF-AI-Security"
     },
     {
       "name": "OIF-Cyber-Intelligence",
@@ -482,7 +509,8 @@
       "description": "Open defensive cyber intelligence research.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/OIF-Cyber-Intelligence"
     },
     {
       "name": "OIF-Collective-Intelligence",
@@ -495,7 +523,8 @@
       "description": "Open research for federated AI and collective reasoning.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/OIF-Collective-Intelligence"
     },
     {
       "name": "OIF-Conformance-Lab",
@@ -508,7 +537,8 @@
       "description": "Open testing, benchmarking, protocol conformance, and reproducible research.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/OIF-Conformance-Lab"
     },
     {
       "name": "OIF-Systems-Intelligence",
@@ -521,7 +551,8 @@
       "description": "Open computer and systems intelligence research.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/OIF-Systems-Intelligence"
     },
     {
       "name": "posix-containment-kit",
@@ -534,7 +565,8 @@
       "description": "POSIX host inspection and operator-authorized reversible containment toolkit.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/posix-containment-kit"
     },
     {
       "name": "xdp-ingress-primitives",
@@ -547,7 +579,8 @@
       "description": "Linux XDP ingress filtering primitives.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/xdp-ingress-primitives"
     },
     {
       "name": "cas-threat-index",
@@ -560,7 +593,8 @@
       "description": "Defensive artifact trust registry.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/cas-threat-index"
     },
     {
       "name": "OIF-Model-Intelligence",
@@ -573,7 +607,8 @@
       "description": "Open model intelligence research.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/OIF-Model-Intelligence"
     },
     {
       "name": "Open-Intelligence-Fabric",
@@ -586,7 +621,8 @@
       "description": "Open standards, terminology, taxonomy, schemas, resource contracts, and interoperability foundation.",
       "account": "HuffmanMainNode",
       "classification": "original_project",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/Open-Intelligence-Fabric"
     },
     {
       "name": "Huffman-Public-Archive-Topology",
@@ -599,7 +635,8 @@
       "description": "Public topology and architectural overlay of original HuffmanMainNode repositories, with external forks identified and linked separately.",
       "account": "HuffmanMainNode",
       "classification": "portfolio_index",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/Huffman-Public-Archive-Topology"
     },
     {
       "name": "council-of-high-intelligence-ForkByMrCakes931",
@@ -611,7 +648,8 @@
       "archived": false,
       "account": "HuffmanMainNode",
       "classification": "upstream_fork",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/council-of-high-intelligence-ForkByMrCakes931"
     },
     {
       "name": "cvelistV5-ForkByMrCakes931",
@@ -623,7 +661,8 @@
       "archived": false,
       "account": "HuffmanMainNode",
       "classification": "upstream_fork",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/cvelistV5-ForkByMrCakes931"
     },
     {
       "name": "opentui-Fork-MrCakes931",
@@ -635,7 +674,8 @@
       "archived": true,
       "account": "HuffmanMainNode",
       "classification": "upstream_fork",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/opentui-Fork-MrCakes931"
     },
     {
       "name": "Shadowbroker-MrCakes931--TestingFork",
@@ -647,7 +687,8 @@
       "archived": false,
       "account": "HuffmanMainNode",
       "classification": "upstream_fork",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/Shadowbroker-MrCakes931--TestingFork"
     },
     {
       "name": "skills-service-ForkByMrCakes931-ZEROTRUST",
@@ -659,7 +700,8 @@
       "archived": false,
       "account": "HuffmanMainNode",
       "classification": "upstream_fork",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/skills-service-ForkByMrCakes931-ZEROTRUST"
     },
     {
       "name": "bit-chat-Jibberlink",
@@ -671,7 +713,8 @@
       "archived": true,
       "account": "HuffmanMainNode",
       "classification": "upstream_fork",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/bit-chat-Jibberlink"
     },
     {
       "name": "opencode-beta-MrCakes931-Testing",
@@ -683,7 +726,8 @@
       "archived": true,
       "account": "HuffmanMainNode",
       "classification": "upstream_fork",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/opencode-beta-MrCakes931-Testing"
     },
     {
       "name": "osiris-ForkByMrCakes931",
@@ -695,7 +739,8 @@
       "archived": false,
       "account": "HuffmanMainNode",
       "classification": "upstream_fork",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/osiris-ForkByMrCakes931"
     },
     {
       "name": "ghidra-ForkByMrCakes931",
@@ -707,7 +752,8 @@
       "archived": false,
       "account": "HuffmanMainNode",
       "classification": "upstream_fork",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/ghidra-ForkByMrCakes931"
     },
     {
       "name": "ARC-AGI-3-Agents-ForkByMrCakes931",
@@ -719,7 +765,8 @@
       "archived": true,
       "account": "HuffmanMainNode",
       "classification": "upstream_fork",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/ARC-AGI-3-Agents-ForkByMrCakes931"
     },
     {
       "name": "ELITE-Protocol-ForkByMrCakes931",
@@ -731,7 +778,8 @@
       "archived": false,
       "account": "HuffmanMainNode",
       "classification": "upstream_fork",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/ELITE-Protocol-ForkByMrCakes931"
     },
     {
       "name": "ELITE-Agent-Commons-ForkByMrCakes931",
@@ -743,7 +791,8 @@
       "archived": false,
       "account": "HuffmanMainNode",
       "classification": "upstream_fork",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/ELITE-Agent-Commons-ForkByMrCakes931"
     },
     {
       "name": "ELITE-Ingestion-Core-ForkByMrCakes931",
@@ -755,7 +804,8 @@
       "archived": false,
       "account": "HuffmanMainNode",
       "classification": "upstream_fork",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/ELITE-Ingestion-Core-ForkByMrCakes931"
     },
     {
       "name": "Huffman-Network-Atlas-ForkByMrCakes931",
@@ -767,7 +817,8 @@
       "archived": false,
       "account": "HuffmanMainNode",
       "classification": "upstream_fork",
-      "evidence_level": "repository_metadata_verified"
+      "evidence_level": "repository_metadata_verified",
+      "full_name": "HuffmanMainNode/Huffman-Network-Atlas-ForkByMrCakes931"
     },
     {
       "name": "agent-intelligence-ecosystem",
