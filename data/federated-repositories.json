@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1.0",
   "snapshot_date": "2026-11-22",
-  "last_verified_at": "2026-11-22T09:13:05Z",
+  "last_verified_at": "2026-11-22T09:14:07Z",
   "scope": "All public repositories across the six configured accounts; private repositories are excluded.",
   "counts": {
     "account_count": 6,
@@ -78,7 +78,7 @@
       "forks": 14,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "login": "PCakes303",
@@ -89,7 +89,7 @@
       "forks": 0,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "login": "HuffmanRepositories",
@@ -100,7 +100,7 @@
       "forks": 0,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "login": "midnightlolz31337",
@@ -111,7 +111,7 @@
       "forks": 0,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "login": "roberthuffman",
@@ -122,7 +122,7 @@
       "forks": 2,
       "controlled_test_copies": 1,
       "profile_repositories": 1,
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "login": "Ryzean84",
@@ -133,7 +133,7 @@
       "forks": 3,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     }
   ],
   "repositories": [
@@ -157,7 +157,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "ARC-AGI-3-Agents-ForkByMrCakes931",
@@ -178,7 +178,7 @@
       "language": "Python",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z",
+      "last_verified_at": "2026-11-22T09:14:07Z",
       "upstream": "arcprize/ARC-AGI-3-Agents",
       "upstream_url": "https://github.com/arcprize/ARC-AGI-3-Agents"
     },
@@ -201,7 +201,7 @@
       "language": "Kotlin",
       "license_spdx_id": "GPL-3.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z",
+      "last_verified_at": "2026-11-22T09:14:07Z",
       "upstream": "permissionlesstech/bitchat-android",
       "upstream_url": "https://github.com/permissionlesstech/bitchat-android"
     },
@@ -225,7 +225,7 @@
       "language": "Python",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "cas-threat-index",
@@ -247,7 +247,7 @@
       "language": "Python",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "cas-xdp-supervisor",
@@ -269,7 +269,7 @@
       "language": "Python",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Coming-Soon-Project-AVI",
@@ -291,7 +291,7 @@
       "language": "Python",
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "council-of-high-intelligence-ForkByMrCakes931",
@@ -312,7 +312,7 @@
       "language": "Shell",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z",
+      "last_verified_at": "2026-11-22T09:14:07Z",
       "upstream": "0xNyk/council-of-high-intelligence",
       "upstream_url": "https://github.com/0xNyk/council-of-high-intelligence"
     },
@@ -342,7 +342,7 @@
         "public-portfolio",
         "showcase"
       ],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Curated-Modern-OSINT-Tools",
@@ -370,7 +370,7 @@
         "public-portfolio",
         "showcase"
       ],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "cvelistV5-ForkByMrCakes931",
@@ -391,7 +391,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z",
+      "last_verified_at": "2026-11-22T09:14:07Z",
       "upstream": "CVEProject/cvelistV5",
       "upstream_url": "https://github.com/CVEProject/cvelistV5"
     },
@@ -414,7 +414,7 @@
       "language": null,
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z",
+      "last_verified_at": "2026-11-22T09:14:07Z",
       "upstream": "midnightlolz31337/ELITE-Agent-Commons",
       "upstream_url": "https://github.com/midnightlolz31337/ELITE-Agent-Commons"
     },
@@ -437,7 +437,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z",
+      "last_verified_at": "2026-11-22T09:14:07Z",
       "upstream": "midnightlolz31337/ELITE-Ingestion-Core",
       "upstream_url": "https://github.com/midnightlolz31337/ELITE-Ingestion-Core"
     },
@@ -460,7 +460,7 @@
       "language": null,
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z",
+      "last_verified_at": "2026-11-22T09:14:07Z",
       "upstream": "midnightlolz31337/ELITE-Protocol",
       "upstream_url": "https://github.com/midnightlolz31337/ELITE-Protocol"
     },
@@ -483,7 +483,7 @@
       "language": "Java",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z",
+      "last_verified_at": "2026-11-22T09:14:07Z",
       "upstream": "NationalSecurityAgency/ghidra",
       "upstream_url": "https://github.com/NationalSecurityAgency/ghidra"
     },
@@ -507,7 +507,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Halloween-OSINT-2026",
@@ -529,7 +529,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Halloween2-OSINT-2026",
@@ -551,7 +551,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Happy-Halloween-2026",
@@ -573,7 +573,7 @@
       "language": "Python",
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Huffman-Cyber-Observatory",
@@ -595,7 +595,7 @@
       "language": "Python",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Huffman-Defensive-Intelligence",
@@ -617,7 +617,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Huffman-Network-Atlas-ForkByMrCakes931",
@@ -638,7 +638,7 @@
       "language": null,
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z",
+      "last_verified_at": "2026-11-22T09:14:07Z",
       "upstream": "midnightlolz31337/Huffman-Network-Atlas",
       "upstream_url": "https://github.com/midnightlolz31337/Huffman-Network-Atlas"
     },
@@ -662,7 +662,7 @@
       "language": "Python",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Huffman-Public-Archive-Topology",
@@ -680,11 +680,11 @@
       "github_description": "Public topology and architectural overlay of original HuffmanMainNode repositories, with external forks identified and linked separately.",
       "created_at": "2026-11-22T07:40:15Z",
       "updated_at": "2026-11-22T09:00:24Z",
-      "pushed_at": "2026-11-22T09:12:53Z",
+      "pushed_at": "2026-11-22T09:14:00Z",
       "language": "Python",
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Huffman-Reverse-Intelligence",
@@ -706,7 +706,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "HuffmanMainNode",
@@ -728,7 +728,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "mesh-archivist-engine",
@@ -750,7 +750,7 @@
       "language": "Python",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Multi-Agent-Swarm-Guardrails",
@@ -772,7 +772,7 @@
       "language": "Python",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "OI-Swarm-Intelligence",
@@ -794,7 +794,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "OIF-AI-Security",
@@ -816,7 +816,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "OIF-Cognitive-Systems",
@@ -838,7 +838,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "OIF-Collective-Intelligence",
@@ -860,7 +860,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "OIF-Conformance-Lab",
@@ -882,7 +882,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "OIF-Cyber-Intelligence",
@@ -904,7 +904,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "OIF-Model-Intelligence",
@@ -926,7 +926,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "OIF-Research-Observatory",
@@ -948,7 +948,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "OIF-Systems-Intelligence",
@@ -970,7 +970,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Open-Intelligence-Exchange",
@@ -992,7 +992,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Open-Intelligence-Fabric",
@@ -1014,7 +1014,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "opencode-beta-MrCakes931-Testing",
@@ -1035,7 +1035,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z",
+      "last_verified_at": "2026-11-22T09:14:07Z",
       "upstream": "anomalyco/opencode-beta",
       "upstream_url": "https://github.com/anomalyco/opencode-beta"
     },
@@ -1058,7 +1058,7 @@
       "language": "TypeScript",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z",
+      "last_verified_at": "2026-11-22T09:14:07Z",
       "upstream": "anomalyco/opentui",
       "upstream_url": "https://github.com/anomalyco/opentui"
     },
@@ -1082,7 +1082,7 @@
       "language": "Python",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "osiris-ForkByMrCakes931",
@@ -1103,7 +1103,7 @@
       "language": "TypeScript",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z",
+      "last_verified_at": "2026-11-22T09:14:07Z",
       "upstream": "simplifaisoul/osiris",
       "upstream_url": "https://github.com/simplifaisoul/osiris"
     },
@@ -1127,7 +1127,7 @@
       "language": "Python",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Project-Helios-US-Archive",
@@ -1155,7 +1155,7 @@
         "public-portfolio",
         "showcase"
       ],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Project_Lazarus_OSINT",
@@ -1183,7 +1183,7 @@
         "public-portfolio",
         "showcase"
       ],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Protocol-Helios",
@@ -1211,7 +1211,7 @@
         "public-portfolio",
         "showcase"
       ],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "repo-mesh-blueprint",
@@ -1233,7 +1233,7 @@
       "language": null,
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Shadowbroker-MrCakes931--TestingFork",
@@ -1254,7 +1254,7 @@
       "language": "Python",
       "license_spdx_id": "AGPL-3.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z",
+      "last_verified_at": "2026-11-22T09:14:07Z",
       "upstream": "BigBodyCobain/Shadowbroker",
       "upstream_url": "https://github.com/BigBodyCobain/Shadowbroker"
     },
@@ -1277,7 +1277,7 @@
       "language": "Groovy",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z",
+      "last_verified_at": "2026-11-22T09:14:07Z",
       "upstream": "NationalSecurityAgency/skills-service",
       "upstream_url": "https://github.com/NationalSecurityAgency/skills-service"
     },
@@ -1301,7 +1301,7 @@
       "language": "Python",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Agent-Delegated-Budget-Enforcement-Fixtures",
@@ -1325,7 +1325,7 @@
       "language": "Python",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Agent-Delegation-Scope-Boundary-Fixtures",
@@ -1349,7 +1349,7 @@
       "language": "Python",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Agent-Evaluation-Oracle-Integrity-Fixtures",
@@ -1373,7 +1373,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Agent-Memory-Portability-Tests",
@@ -1397,7 +1397,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Agent-Tool-Retry-Idempotency-Fixtures",
@@ -1421,7 +1421,7 @@
       "language": "Python",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Huffman-Ecosystem-Guide",
@@ -1445,7 +1445,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Huffman-Ecosystem-Root",
@@ -1469,7 +1469,7 @@
       "language": "Python",
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "HuffmanRepositories",
@@ -1492,7 +1492,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Open-Agent-Compatibility",
@@ -1516,7 +1516,7 @@
       "language": "Python",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Open-Agent-Compatibility-Fixtures",
@@ -1540,7 +1540,7 @@
       "language": "Python",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Open-Agent-Run-Metrics-Interop",
@@ -1564,7 +1564,7 @@
       "language": "Python",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Open-Source-AI-Independence",
@@ -1588,7 +1588,7 @@
       "language": null,
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "ELITE-Agent-Commons",
@@ -1612,7 +1612,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "ELITE-Ingestion-Core",
@@ -1636,7 +1636,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "ELITE-Protocol",
@@ -1660,7 +1660,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Huffman-Network-Atlas",
@@ -1684,7 +1684,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "midnightlolz31337",
@@ -1707,7 +1707,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "adaptive-swarm-compression",
@@ -1740,7 +1740,7 @@
       "language": "Python",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "agent-ai-discovery",
@@ -1770,7 +1770,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "agent-audit-provenance",
@@ -1799,7 +1799,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "agent-capability-registry",
@@ -1828,7 +1828,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "agent-compliance-governance",
@@ -1860,7 +1860,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "agent-conformance-lab",
@@ -1898,7 +1898,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "agent-discovery-network",
@@ -1928,7 +1928,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "agent-ecosystem-integration",
@@ -1960,7 +1960,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "agent-emergency-control",
@@ -1991,7 +1991,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "agent-federation-network",
@@ -2025,7 +2025,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "agent-foundation-spec",
@@ -2052,7 +2052,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "agent-identity-trust",
@@ -2080,7 +2080,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "agent-intelligence-ecosystem",
@@ -2105,7 +2105,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "agent-policy-engine",
@@ -2132,7 +2132,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "agent-resource-manifest",
@@ -2161,7 +2161,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "agent-sandbox-security",
@@ -2193,7 +2193,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "agent-schema-registry",
@@ -2220,7 +2220,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "agent-secure-supply-chain",
@@ -2249,7 +2249,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "agent-skill-library",
@@ -2279,7 +2279,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "agent-tool-adapters",
@@ -2309,7 +2309,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "agent-transport-gateway",
@@ -2339,7 +2339,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "aix-codecs",
@@ -2367,7 +2367,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "aix-core",
@@ -2398,7 +2398,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "intelligence-knowledge-graph",
@@ -2426,7 +2426,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "mrcakes931-ecosystem",
@@ -2453,7 +2453,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "osint-collection-framework",
@@ -2486,7 +2486,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "osint-entity-resolution",
@@ -2520,7 +2520,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "osint-evidence-engine",
@@ -2551,7 +2551,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "osint-source-registry",
@@ -2580,7 +2580,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "PCakes303",
@@ -2603,7 +2603,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "swarm-coordination",
@@ -2633,7 +2633,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "swarm-runtime",
@@ -2663,7 +2663,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "swarm-state-mesh",
@@ -2692,7 +2692,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Cui-Bono-Audit-Tool-TestFork",
@@ -2716,7 +2716,7 @@
       "language": "JavaScript",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z",
+      "last_verified_at": "2026-11-22T09:14:07Z",
       "upstream": "HuffmanMainNode/Cui-Bono-Audit-Tool",
       "upstream_url": "https://github.com/HuffmanMainNode/Cui-Bono-Audit-Tool"
     },
@@ -2742,7 +2742,7 @@
       "language": null,
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z",
+      "last_verified_at": "2026-11-22T09:14:07Z",
       "upstream": "HuffmanMainNode/Protocol-Helios",
       "upstream_url": "https://github.com/HuffmanMainNode/Protocol-Helios"
     },
@@ -2767,7 +2767,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "uss-sdk-wrapper-TESTFORK",
@@ -2791,7 +2791,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "Curated-Modern-OSINT-Tools-ForkBy_Ryzean84",
@@ -2815,7 +2815,7 @@
       "language": "Python",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z",
+      "last_verified_at": "2026-11-22T09:14:07Z",
       "upstream": "HuffmanMainNode/Curated-Modern-OSINT-Tools",
       "upstream_url": "https://github.com/HuffmanMainNode/Curated-Modern-OSINT-Tools"
     },
@@ -2838,7 +2838,7 @@
       "language": null,
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z",
+      "last_verified_at": "2026-11-22T09:14:07Z",
       "upstream": "HuffmanMainNode/mesh-archivist-engine",
       "upstream_url": "https://github.com/HuffmanMainNode/mesh-archivist-engine"
     },
@@ -2861,7 +2861,7 @@
       "language": null,
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     },
     {
       "name": "repo-mesh-blueprint-ControlledFork-by-MrCakes931",
@@ -2882,7 +2882,7 @@
       "language": null,
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:13:05Z",
+      "last_verified_at": "2026-11-22T09:14:07Z",
       "upstream": "HuffmanMainNode/repo-mesh-blueprint",
       "upstream_url": "https://github.com/HuffmanMainNode/repo-mesh-blueprint"
     },
@@ -2914,7 +2914,7 @@
         "systems-architecture",
         "threat-telemetry"
       ],
-      "last_verified_at": "2026-11-22T09:13:05Z"
+      "last_verified_at": "2026-11-22T09:14:07Z"
     }
   ]
 }
