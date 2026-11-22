@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "snapshot_date": "2026-11-22",
-  "scope": "Original public HuffmanMainNode repositories only; branch names from GitHub branches endpoint. Branch SHAs and protection states intentionally omitted in this compact index.",
+  "scope": "Current branch names re-fetched from GitHub branches endpoint for all 37 public non-fork HuffmanMainNode repositories, including this topology index. Branch names do not establish merge, protection, or release status.",
   "branches": {
     "Protocol-Helios": [
       "main",
@@ -326,6 +326,10 @@
     "Open-Intelligence-Fabric": [
       "main",
       "build/oif-v1-foundation"
+    ],
+    "Huffman-Public-Archive-Topology": [
+      "main",
+      "build/public-account-topology-v1"
     ]
   }
 }
