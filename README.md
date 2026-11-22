@@ -1,6 +1,6 @@
 # Huffman Public Archive Topology
 
-A public, evidence-led map of original repositories owned by [HuffmanMainNode](https://github.com/HuffmanMainNode). This repository separates authored projects from upstream forks and describes verified project relationships without presenting conceptual groupings as runtime dependencies.
+A public, evidence-led catalogue of repositories across six GitHub accounts: [HuffmanMainNode](https://github.com/HuffmanMainNode), [PCakes303](https://github.com/PCakes303), [HuffmanRepositories](https://github.com/HuffmanRepositories), [midnightlolz31337](https://github.com/midnightlolz31337), [roberthuffman](https://github.com/roberthuffman), and [Ryzean84](https://github.com/Ryzean84). It preserves each repository's account ownership, separates original projects from upstream forks, and records project relationships without presenting conceptual groupings as runtime dependencies.
 
 **Scope:** Public repositories across HuffmanMainNode and five explicitly supplied alternate accounts. Private repositories remain outside this publication boundary.
 
