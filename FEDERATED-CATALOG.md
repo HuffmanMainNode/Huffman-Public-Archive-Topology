@@ -83,12 +83,49 @@ _Primary public portfolio and archive index_
 | [skills-service-ForkByMrCakes931-ZEROTRUST](https://github.com/HuffmanMainNode/skills-service-ForkByMrCakes931-ZEROTRUST) | upstream fork | Unclassified | No repository description supplied. Consult the repository README. | Not applicable / not recorded |
 | [xdp-ingress-primitives](https://github.com/HuffmanMainNode/xdp-ingress-primitives) | original project | Defensive security | Linux XDP ingress filtering primitives. | Not applicable / not recorded |
 
+<sub>51 repository records in this account section.</sub>
+
 ### [PCakes303](https://github.com/PCakes303)
 
 _MrCakes931 Agent Intelligence Ecosystem; canonical control plane, agent foundations, protocols, swarm, OSINT/evidence, adoption, and governance_
 
 | Repository | Classification | Project family | Description / purpose | Upstream |
 |---|---|---|---|---|
+| [adaptive-swarm-compression](https://github.com/PCakes303/adaptive-swarm-compression) | original project | research-and-data-systems | Experimental local lossless codec pipeline and representation-capsule foundation for research into adaptive, collective information representation; no distributed swarm execution or shared-dictionary service yet. | Not applicable / not recorded |
+| [agent-ai-discovery](https://github.com/PCakes303/agent-ai-discovery) | original project | ecosystem-facing | AI-native discovery metadata, machine-readable entrypoints, published capability indexes, and opt-in agent integration. | Not applicable / not recorded |
+| [agent-audit-provenance](https://github.com/PCakes303/agent-audit-provenance) | original project | foundation-security | Portable audit event contracts, traceability, deterministic hash-chained records, and shared v1.1.0 capability metadata; authenticated and signed provenance remain future work. | Not applicable / not recorded |
+| [agent-capability-registry](https://github.com/PCakes303/agent-capability-registry) | original project | swarm | Experimental catalog and validation of declared agent capabilities with policy-filtered candidate matching; advisory only, not authentication or authorization. | Not applicable / not recorded |
+| [agent-compliance-governance](https://github.com/PCakes303/agent-compliance-governance) | original project | governance | Legal applicability register, compliance control catalogue, privacy and AI governance, evidence management, and regulatory change monitoring; not legal advice or certification. | Not applicable / not recorded |
+| [agent-conformance-lab](https://github.com/PCakes303/agent-conformance-lab) | original project | adoption | Protocol contract validation, compatibility and security tests, with future isolated swarm benchmarking. | Not applicable / not recorded |
+| [agent-discovery-network](https://github.com/PCakes303/agent-discovery-network) | original project | swarm | Experimental trust-filtered discovery index for candidate agents, resources, services and capability advertisements; not authentication or authorization. | Not applicable / not recorded |
+| [agent-ecosystem-integration](https://github.com/PCakes303/agent-ecosystem-integration) | original project | ecosystem-facing | Cross-repository integration profiles, adapter safety contracts, interoperability guidance, and conformance validation. | Not applicable / not recorded |
+| [agent-emergency-control](https://github.com/PCakes303/agent-emergency-control) | original project | foundation-security | Independent emergency-stop authority, authenticated stop state, revocation, quarantine, distributed stop propagation, and controlled resumption. | Not applicable / not recorded |
+| [agent-federation-network](https://github.com/PCakes303/agent-federation-network) | original project | adoption | Local peer declaration contract validator for independent network federation; no peer authentication, transport, credential exchange or remote authorization. | Not applicable / not recorded |
+| [agent-foundation-spec](https://github.com/PCakes303/agent-foundation-spec) | original project | foundation-security | Normative foundation requirements, security and reliability invariants, lifecycle, and compatibility contracts. | Not applicable / not recorded |
+| [agent-identity-trust](https://github.com/PCakes303/agent-identity-trust) | original project | foundation-security | Principal identity data contracts, authentication context, authorization, delegation, revocation, and trust boundaries. | Not applicable / not recorded |
+| [agent-intelligence-ecosystem](https://github.com/PCakes303/agent-intelligence-ecosystem) | original project | control-plane | Canonical public registry, dependency graph, governance, ADRs, and compatibility overview. | Not applicable / not recorded |
+| [agent-policy-engine](https://github.com/PCakes303/agent-policy-engine) | original project | foundation-security | Deterministic, default-deny policy decision evaluation for agent identities, actions, resources, and scopes; experimental evaluator, not a production enforcement boundary. | Not applicable / not recorded |
+| [agent-resource-manifest](https://github.com/PCakes303/agent-resource-manifest) | original project | foundation-security | Portable manifests for agent tools, skills, models, datasets, services, dependencies, and requested permissions. | Not applicable / not recorded |
+| [agent-sandbox-security](https://github.com/PCakes303/agent-sandbox-security) | original project | adoption | Experimental sandbox admission policy contract and fail-closed reference validator; no OS isolation or workload execution. | Not applicable / not recorded |
+| [agent-schema-registry](https://github.com/PCakes303/agent-schema-registry) | original project | foundation-security | Versioned JSON Schemas, schema catalog governance, validation conventions, and compatibility rules. | Not applicable / not recorded |
+| [agent-secure-supply-chain](https://github.com/PCakes303/agent-secure-supply-chain) | original project | foundation-security | Release integrity, SBOMs, provenance, dependency and vulnerability management. | Not applicable / not recorded |
+| [agent-skill-library](https://github.com/PCakes303/agent-skill-library) | original project | adoption | Experimental declarative skill package contract, versioned workflow schema, and dependency-free validator for machine-discoverable reusable workflows; no execution or publisher trust service. | Not applicable / not recorded |
+| [agent-tool-adapters](https://github.com/PCakes303/agent-tool-adapters) | original project | adoption | Experimental, dependency-free Python reference contract for explicit tool adapter registration, capability declarations, policy-gated invocation, and bounded JSON payloads; no bundled third-party adapters or sandbox runtime. | Not applicable / not recorded |
+| [agent-transport-gateway](https://github.com/PCakes303/agent-transport-gateway) | original project | protocols | Experimental transport-neutral request guard and integration boundary for AIX over HTTP, MCP and A2A; not a production gateway. | Not applicable / not recorded |
+| [aix-codecs](https://github.com/PCakes303/aix-codecs) | original project | protocols | Serialization, validation, and machine encodings for AIX. | Not applicable / not recorded |
+| [aix-core](https://github.com/PCakes303/aix-core) | original project | protocols | Experimental semantic interoperability specification for intent, tasks, responses, capabilities, context, status, errors, and provenance; extension layer over established protocols and transports with shared v1.1.0 capability metadata. | Not applicable / not recorded |
+| [intelligence-knowledge-graph](https://github.com/PCakes303/intelligence-knowledge-graph) | original project | intelligence | Provenance-aware graph reference model linking source records, preserved evidence, entities and evidence-backed relationships with explicit uncertainty and bounded queries. | Not applicable / not recorded |
+| [mrcakes931-ecosystem](https://github.com/PCakes303/mrcakes931-ecosystem) | original project | ecosystem-facing | Human-facing ecosystem guide, navigation, onboarding, and project relationships. | Not applicable / not recorded |
+| [osint-collection-framework](https://github.com/PCakes303/osint-collection-framework) | original project | intelligence | Authorized public-information collection through tools and adapters. | Not applicable / not recorded |
+| [osint-entity-resolution](https://github.com/PCakes303/osint-entity-resolution) | original project | intelligence | Bounded candidate matching among public organizations, software projects, datasets, publications and registries; review-required only, no people matching, identity assertion, auto-merge or graph writes. | Not applicable / not recorded |
+| [osint-evidence-engine](https://github.com/PCakes303/osint-evidence-engine) | original project | intelligence | Evidence preservation, provenance, hashes, timestamps, and reproducibility. | Not applicable / not recorded |
+| [osint-source-registry](https://github.com/PCakes303/osint-source-registry) | original project | intelligence | Review-gated catalog of public information sources, datasets, APIs and publication repositories, with licensing, permitted-purpose, access-limit, retention and approval metadata; no collection client. | Not applicable / not recorded |
+| [PCakes303](https://github.com/PCakes303/PCakes303) | profile | profile | Account landing page; Cyber Intelligence, OSINT, and swarm technology. | Not applicable / not recorded |
+| [swarm-coordination](https://github.com/PCakes303/swarm-coordination) | original project | swarm | Task assignment, delegation, acknowledgement, synchronization, and recovery. | Not applicable / not recorded |
+| [swarm-runtime](https://github.com/PCakes303/swarm-runtime) | original project | swarm | Execution infrastructure for distributed agents and nodes. | Not applicable / not recorded |
+| [swarm-state-mesh](https://github.com/PCakes303/swarm-state-mesh) | original project | swarm | Distributed task state, context references, synchronization, and shared knowledge. | Not applicable / not recorded |
+
+<sub>33 repository records in this account section.</sub>
 
 ### [HuffmanRepositories](https://github.com/HuffmanRepositories)
 
@@ -96,6 +133,20 @@ _Public ecosystem directory, interoperability research, mission, and synthetic a
 
 | Repository | Classification | Project family | Description / purpose | Upstream |
 |---|---|---|---|---|
+| [Agent-Delegated-Budget-Enforcement-Fixtures](https://github.com/HuffmanRepositories/Agent-Delegated-Budget-Enforcement-Fixtures) | original project | agent reliability | Synthetic delegated-budget scenarios; not a production budget manager. | Not applicable / not recorded |
+| [Agent-Delegation-Scope-Boundary-Fixtures](https://github.com/HuffmanRepositories/Agent-Delegation-Scope-Boundary-Fixtures) | original project | agent reliability | Synthetic offline fixtures for delegated-authority boundaries; not an authorization engine. | Not applicable / not recorded |
+| [Agent-Evaluation-Oracle-Integrity-Fixtures](https://github.com/HuffmanRepositories/Agent-Evaluation-Oracle-Integrity-Fixtures) | original project | agent reliability | Synthetic test cases for evaluation/oracle integrity. | Not applicable / not recorded |
+| [Agent-Memory-Portability-Tests](https://github.com/HuffmanRepositories/Agent-Memory-Portability-Tests) | original project | agent reliability | Synthetic memory migration and loss test cases. | Not applicable / not recorded |
+| [Agent-Tool-Retry-Idempotency-Fixtures](https://github.com/HuffmanRepositories/Agent-Tool-Retry-Idempotency-Fixtures) | original project | agent reliability | Synthetic fixtures for retries, idempotency, and uncertain tool outcomes. | Not applicable / not recorded |
+| [Huffman-Ecosystem-Guide](https://github.com/HuffmanRepositories/Huffman-Ecosystem-Guide) | original project | ecosystem navigation | Human onboarding and navigation for the account's public ecosystem. | Not applicable / not recorded |
+| [Huffman-Ecosystem-Root](https://github.com/HuffmanRepositories/Huffman-Ecosystem-Root) | original project | ecosystem navigation | Public front door, AI/human directory, onboarding, glossary, governance index, and P15 in-memory reference fixtures. | Not applicable / not recorded |
+| [HuffmanRepositories](https://github.com/HuffmanRepositories/HuffmanRepositories) | profile | profile | Public intelligence, OSINT, cybersecurity, and open-source research hub; paired discovery account. | Not applicable / not recorded |
+| [Open-Agent-Compatibility](https://github.com/HuffmanRepositories/Open-Agent-Compatibility) | original project | interoperability | Neutral compatibility mapping and conformance methodology; not a protocol or runtime. | Not applicable / not recorded |
+| [Open-Agent-Compatibility-Fixtures](https://github.com/HuffmanRepositories/Open-Agent-Compatibility-Fixtures) | original project | interoperability | Synthetic compatibility fixtures and reproducible test cases for agent protocol interoperability. | Not applicable / not recorded |
+| [Open-Agent-Run-Metrics-Interop](https://github.com/HuffmanRepositories/Open-Agent-Run-Metrics-Interop) | original project | metrics interoperability | Usage/accounting representation and interoperability test vectors; not a billing engine. | Not applicable / not recorded |
+| [Open-Source-AI-Independence](https://github.com/HuffmanRepositories/Open-Source-AI-Independence) | original project | mission and coordination | Mission and coordination call for independent, decentralized, transparent AI infrastructure. | Not applicable / not recorded |
+
+<sub>12 repository records in this account section.</sub>
 
 ### [midnightlolz31337](https://github.com/midnightlolz31337)
 
@@ -103,6 +154,13 @@ _ELITE evidence/provenance protocol, ingestion, discovery commons, and federated
 
 | Repository | Classification | Project family | Description / purpose | Upstream |
 |---|---|---|---|---|
+| [ELITE-Agent-Commons](https://github.com/midnightlolz31337/ELITE-Agent-Commons) | original project | agent discovery | Open, machine-readable discovery and coordination commons for AI agents and research tools; curated catalogue, not a live crawler or marketplace. | Not applicable / not recorded |
+| [ELITE-Ingestion-Core](https://github.com/midnightlolz31337/ELITE-Ingestion-Core) | original project | evidence ingestion | Local JSONL/CSV ingestion prototype with bounded parsing, record digests, source references, and quarantine. | Not applicable / not recorded |
+| [ELITE-Protocol](https://github.com/midnightlolz31337/ELITE-Protocol) | original project | protocol and provenance | Draft protocols for evidence exchange, provenance, trust boundaries, and interoperable intelligence systems; adapters are future work. | Not applicable / not recorded |
+| [Huffman-Network-Atlas](https://github.com/midnightlolz31337/Huffman-Network-Atlas) | original project | portfolio atlas | A federated, evidence-backed map of the Huffman Systems ecosystem, repositories, capabilities, dependencies, and provenance. | Not applicable / not recorded |
+| [midnightlolz31337](https://github.com/midnightlolz31337/midnightlolz31337) | profile | profile | Account landing page for ELITE and ecosystem-index work. | Not applicable / not recorded |
+
+<sub>5 repository records in this account section.</sub>
 
 ### [roberthuffman](https://github.com/roberthuffman)
 
@@ -110,6 +168,12 @@ _Controlled testing copies and profile; no distinct original project counted in 
 
 | Repository | Classification | Project family | Description / purpose | Upstream |
 |---|---|---|---|---|
+| [Cui-Bono-Audit-Tool-TestFork](https://github.com/roberthuffman/Cui-Bono-Audit-Tool-TestFork) | upstream fork | Unclassified | Controlled test fork of Cui-Bono-Audit-Tool. | [HuffmanMainNode/Cui-Bono-Audit-Tool](https://github.com/HuffmanMainNode/Cui-Bono-Audit-Tool) |
+| [Protocol-Helios-ControlledTestFork](https://github.com/roberthuffman/Protocol-Helios-ControlledTestFork) | upstream fork | Unclassified | Controlled test fork of Protocol-Helios. | [HuffmanMainNode/Protocol-Helios](https://github.com/HuffmanMainNode/Protocol-Helios) |
+| [roberthuffman](https://github.com/roberthuffman/roberthuffman) | profile | profile | Official Architect Profile V1. | Not applicable / not recorded |
+| [uss-sdk-wrapper-TESTFORK](https://github.com/roberthuffman/uss-sdk-wrapper-TESTFORK) | controlled test copy | historical experimental copy | Controlled test copy for a Universal Sovereign Scaffolding SDK concept; README describes a simulated post-quantum wrapper and claimed local data molecularization. | Not applicable / not recorded |
+
+<sub>4 repository records in this account section.</sub>
 
 ### [Ryzean84](https://github.com/Ryzean84)
 
@@ -117,14 +181,18 @@ _Research workspace profile and a fork of the main-account OSINT tools directory
 
 | Repository | Classification | Project family | Description / purpose | Upstream |
 |---|---|---|---|---|
+| [Curated-Modern-OSINT-Tools-ForkBy_Ryzean84](https://github.com/Ryzean84/Curated-Modern-OSINT-Tools-ForkBy_Ryzean84) | upstream fork | Unclassified | Fork of the main-account curated OSINT tools directory. | [HuffmanMainNode/Curated-Modern-OSINT-Tools](https://github.com/HuffmanMainNode/Curated-Modern-OSINT-Tools) |
+| [Ryzean84](https://github.com/Ryzean84/Ryzean84) | profile | profile | Research workspace profile describing open intelligence, distributed systems, defensive research, OSINT, provenance, and threat telemetry. | Not applicable / not recorded |
+
+<sub>2 repository records in this account section.</sub>
 
 ## How to read this directory
 
-- **Original project:** GitHub metadata identifies the repository as not a fork. This classification does not certify authorship of every file or production readiness.
-- **Upstream fork:** follow the upstream link for original source attribution. Forks are not counted as original projects.
-- **Controlled test copy:** retained as a distinct category and not counted as an original project.
+- **Original project:** GitHub metadata identifies the repository as not a fork. This does not certify authorship of every file or production readiness.
+- **Upstream fork:** follow the upstream link for source attribution. Forks are not counted as original projects.
+- **Controlled test copy:** retained as a separate category and not counted as an original project.
 - **Profile:** account landing page, not a standalone product.
-- **Project family:** navigation grouping only. It does not imply a runtime dependency.
+- **Project family:** discovery grouping only; it does not imply a runtime dependency.
 
 ## Machine access
 
@@ -135,4 +203,4 @@ _Research workspace profile and a fork of the main-account OSINT tools directory
 
 ## Freshness and limits
 
-This is a dated snapshot, not a live mirror. Canonical GitHub links resolve to the current repository page, but descriptions, classifications, branch names, and relationships must be refreshed from GitHub before claiming they are current. See [Methodology](METHODOLOGY.md) for the refresh and evidence rules.
+This is a dated snapshot, not a live mirror. Canonical GitHub links resolve to current repository pages, but descriptions, classifications, branch names, and relationships require a refresh before being described as current. See [Methodology](METHODOLOGY.md) for evidence and refresh rules.
