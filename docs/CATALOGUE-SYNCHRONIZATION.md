@@ -10,8 +10,8 @@ The scheduled workflow checks the public repositories for all six configured acc
 
 - Daily at 12:30 UTC.
 - Manual execution: Actions → Refresh federated public catalogue → Run workflow.
-- The workflow uses this repository's GITHUB_TOKEN to read public GitHub metadata and commit generated catalogue updates here.
-- No credentials for the five alternate accounts are required for public repository metadata.
+- The workflow reads public GitHub metadata without requiring credentials for the five alternate accounts.
+- The collector accepts an optional GITHUB_TOKEN environment variable for higher API rate limits, but the scheduled workflow does not require it.
 
 ## What it refreshes
 
