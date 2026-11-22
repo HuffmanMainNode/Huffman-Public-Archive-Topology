@@ -38,6 +38,7 @@ jobs:
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add data/accounts.json data/federated-repositories.json data/cross-account-relationships.json FEDERATED-CATALOG.md
             git commit -m "chore(catalog): refresh federated public inventory"
+            git pull --rebase origin main
             git push
           else
             echo "Catalogue is already current."
