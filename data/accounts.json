@@ -1,12 +1,12 @@
 {
   "schema_version": "1.1.0",
   "snapshot_date": "2026-11-22",
-  "last_verified_at": "2026-11-22T09:07:56Z",
+  "last_verified_at": "2026-11-22T09:13:05Z",
   "scope": "All public repositories across the six configured accounts; private repositories are excluded.",
   "counts": {
     "account_count": 6,
-    "public_repositories": 109,
-    "original_project_repositories": 83,
+    "public_repositories": 110,
+    "original_project_repositories": 84,
     "upstream_forks": 19,
     "controlled_test_copies": 1,
     "profile_repositories": 6,
@@ -47,8 +47,8 @@
         "profiles": 1
       },
       "Ryzean84": {
-        "public": 4,
-        "original_projects": 0,
+        "public": 5,
+        "original_projects": 1,
         "forks": 3,
         "controlled_test_copies": 0,
         "profiles": 1
@@ -61,8 +61,8 @@
       "profiles": 1
     },
     "alternate_accounts": {
-      "public_repositories": 58,
-      "original_projects": 47,
+      "public_repositories": 59,
+      "original_projects": 48,
       "upstream_forks": 5,
       "controlled_test_copies": 1,
       "profiles": 5
@@ -78,7 +78,7 @@
       "forks": 14,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T09:07:56Z"
+      "last_verified_at": "2026-11-22T09:13:05Z"
     },
     {
       "login": "PCakes303",
@@ -89,7 +89,7 @@
       "forks": 0,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T09:07:56Z"
+      "last_verified_at": "2026-11-22T09:13:05Z"
     },
     {
       "login": "HuffmanRepositories",
@@ -100,7 +100,7 @@
       "forks": 0,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T09:07:56Z"
+      "last_verified_at": "2026-11-22T09:13:05Z"
     },
     {
       "login": "midnightlolz31337",
@@ -111,7 +111,7 @@
       "forks": 0,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T09:07:56Z"
+      "last_verified_at": "2026-11-22T09:13:05Z"
     },
     {
       "login": "roberthuffman",
@@ -122,18 +122,18 @@
       "forks": 2,
       "controlled_test_copies": 1,
       "profile_repositories": 1,
-      "last_verified_at": "2026-11-22T09:07:56Z"
+      "last_verified_at": "2026-11-22T09:13:05Z"
     },
     {
       "login": "Ryzean84",
       "role": "Research workspace profile and a fork of the main-account OSINT tools directory",
       "url": "https://github.com/Ryzean84",
-      "public_repositories": 4,
-      "original_projects": 0,
+      "public_repositories": 5,
+      "original_projects": 1,
       "forks": 3,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T09:07:56Z"
+      "last_verified_at": "2026-11-22T09:13:05Z"
     }
   ]
 }
