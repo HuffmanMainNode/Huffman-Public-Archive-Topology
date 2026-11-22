@@ -2,7 +2,7 @@
 
 A public, evidence-led map of original repositories owned by [HuffmanMainNode](https://github.com/HuffmanMainNode). This repository separates authored projects from upstream forks and describes verified project relationships without presenting conceptual groupings as runtime dependencies.
 
-> **Scope:** Public repositories under the HuffmanMainNode account only. Private repositories and alternate accounts are outside this publication boundary.
+**Scope:** Public repositories across HuffmanMainNode and five explicitly supplied alternate accounts. Private repositories remain outside this publication boundary.
 
 ## Snapshot
 
@@ -16,6 +16,13 @@ A public, evidence-led map of original repositories owned by [HuffmanMainNode](h
 
 This is a refreshed completeness snapshot from 2026-11-22. GitHub search returned 51 results across one populated page; all 51 repository records were checked against each repository's metadata, including the authoritative `fork` flag. The 37 non-forks and 14 forks reconcile exactly to the search result. The catalog records evidence and limitations; it does not imply every repository is production-ready.
 
+## Federated snapshot
+
+- Six public accounts: [HuffmanMainNode](https://github.com/HuffmanMainNode), [PCakes303](https://github.com/PCakes303), [HuffmanRepositories](https://github.com/HuffmanRepositories), [midnightlolz31337](https://github.com/midnightlolz31337), [roberthuffman](https://github.com/roberthuffman), and [Ryzean84](https://github.com/Ryzean84).
+- 107 public repositories reconciled: 83 original project repositories, 17 GitHub-confirmed forks, 1 controlled test copy, and 6 profile repositories.
+- Five alternate accounts contribute 56 public repositories; see [MULTI-ACCOUNT-TOPOLOGY.md](MULTI-ACCOUNT-TOPOLOGY.md) and [ALT-ACCOUNT-ROSTER.md](ALT-ACCOUNT-ROSTER.md).
+- Machine-readable federation: [accounts](data/accounts.json), [all repositories](data/federated-repositories.json), and [cross-account relationships](data/cross-account-relationships.json).
+
 ## Start here
 
 - [System overview](SYSTEM-OVERVIEW.md): how the entire public portfolio fits together
@@ -26,11 +33,11 @@ This is a refreshed completeness snapshot from 2026-11-22. GitHub search returne
 - [External forks](EXTERNAL-FORKS.md): fork inventory and upstream attribution
 - [Architecture notes](ARCHITECTURE.md): reading the topology without overclaiming
 - [Methodology](METHODOLOGY.md): scope, evidence grades, and refresh procedure
-- [Machine-readable repositories](data/repositories.json), [branches](data/branches.json), [overlays](data/overlays.json), [external forks](data/external-forks.json)
+- [Primary-account repositories](data/repositories.json), [branches](data/branches.json), [overlays](data/overlays.json), [primary-account forks](data/external-forks.json)
 
 ## Reading rules
 
-1. **Original work vs fork:** only repositories whose GitHub metadata reports `fork=false` enter the original-project catalog. Forks remain in a separate register and are not represented as authored projects.
+1. **Original work vs fork:** GitHub's `fork` metadata is authoritative for fork lineage. Profile repositories and the explicitly labeled USS controlled test copy are not counted as original projects. Forks remain separate and are not represented as authored projects.
 2. **Verified vs inferred:** a relationship explicitly documented by a repository is marked documented. A grouping based on subject matter is marked conceptual. No conceptual grouping should be read as a software dependency.
 3. **Status honesty:** a repository may be a prototype, research initiative, catalog, announcement, empty repository, or implemented tool. A public repository is not automatically a working or maintained product.
 4. **Branches are not releases:** branch names are a point-in-time inventory, not a claim that every branch is current, merged, protected, or deployable.
