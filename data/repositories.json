@@ -1,0 +1,371 @@
+{
+  "schema_version": "1.0.0",
+  "snapshot_date": "2026-11-22",
+  "scope": "Public original repositories returned by user:HuffmanMainNode is:public; topology repository excluded because created after discovery.",
+  "source_search_count": 50,
+  "original_repository_count": 36,
+  "fork_count": 14,
+  "topology_repository": "https://github.com/HuffmanMainNode/Huffman-Public-Archive-Topology",
+  "repositories": [
+    {
+      "name": "Protocol-Helios",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/Protocol-Helios",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Archive and evidence",
+      "description": "A digital library of government repositories for Zero Trust auditing and AI/cybersecurity research."
+    },
+    {
+      "name": "Project_Lazarus_OSINT",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/Project_Lazarus_OSINT",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Archive and evidence",
+      "description": "Tracking financial corruption, insider trading, and dark money in politics."
+    },
+    {
+      "name": "Cui-Bono-Audit-Tool",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/Cui-Bono-Audit-Tool",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Archive and evidence",
+      "description": "Official security audit tool."
+    },
+    {
+      "name": "Curated-Modern-OSINT-Tools",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/Curated-Modern-OSINT-Tools",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Archive and evidence",
+      "description": "Curated directory of modern OSINT tools."
+    },
+    {
+      "name": "Project-Helios-US-Archive",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/Project-Helios-US-Archive",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Archive and evidence",
+      "description": "Structured archive for US historical, law, and crisis data."
+    },
+    {
+      "name": "Huffman-Cyber-Observatory",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/Huffman-Cyber-Observatory",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Defensive security",
+      "description": "Defensive cybersecurity scanning, vulnerability intelligence, cryptographic tools, and AI-agent-ready security research."
+    },
+    {
+      "name": "HuffmanMainNode",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/HuffmanMainNode",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Account/profile",
+      "description": "Chief Architect Profile & Intelligence Architecture."
+    },
+    {
+      "name": "Halloween-OSINT-2026",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/Halloween-OSINT-2026",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Archive and evidence",
+      "description": "Practical, local-first OSINT tools for human investigators and autonomous agents."
+    },
+    {
+      "name": "Happy-Halloween-2026",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/Happy-Halloween-2026",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Community index",
+      "description": "Open-source OSINT community announcement and project index."
+    },
+    {
+      "name": "Huffman-Defensive-Intelligence",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/Huffman-Defensive-Intelligence",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Integration",
+      "description": "Open-source integration layer for decentralized intelligence, agent communication, evidence provenance, and defensive security."
+    },
+    {
+      "name": "Open-Intelligence-Exchange",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/Open-Intelligence-Exchange",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Exchange and protocol",
+      "description": "Decentralized communication framework for independent AI systems and their builders."
+    },
+    {
+      "name": "Halloween2-OSINT-2026",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/Halloween2-OSINT-2026",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Archive and evidence",
+      "description": null
+    },
+    {
+      "name": "Halloween-2026OSINT",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/Halloween-2026OSINT",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Archive and evidence",
+      "description": null
+    },
+    {
+      "name": "-Open-Swarm",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/-Open-Swarm",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Orchestration",
+      "description": "Local-first multi-agent orchestration."
+    },
+    {
+      "name": "Coming-Soon-Project-AVI",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/Coming-Soon-Project-AVI",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Announcement",
+      "description": "Coming-soon announcement for Advanced Virtual Intelligence."
+    },
+    {
+      "name": "OpenWorkSpace",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/OpenWorkSpace",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Workspace",
+      "description": "Secure, modular, local-first digital workshop."
+    },
+    {
+      "name": "Huffman-Protocol",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/Huffman-Protocol",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Exchange and protocol",
+      "description": "Open protocol interoperability, conformance, and assurance infrastructure."
+    },
+    {
+      "name": "Multi-Agent-Swarm-Guardrails",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/Multi-Agent-Swarm-Guardrails",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Agent safety",
+      "description": "Portable open-source safety infrastructure for autonomous agents and swarms."
+    },
+    {
+      "name": "Huffman-Reverse-Intelligence",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/Huffman-Reverse-Intelligence",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Research",
+      "description": "Experimental evidence-driven reverse-engineering and technical-intelligence workbench initiative."
+    },
+    {
+      "name": "mesh-archivist-engine",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/mesh-archivist-engine",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Archive engineering",
+      "description": "Repository mesh archival and orchestration engine."
+    },
+    {
+      "name": "repo-mesh-blueprint",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/repo-mesh-blueprint",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Archive engineering",
+      "description": "Federated repository mesh architectural standard."
+    },
+    {
+      "name": "OIF-Research-Observatory",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/OIF-Research-Observatory",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "OIF research",
+      "description": "Open research observatory for AI, systems, cybersecurity, computer science, and intelligence."
+    },
+    {
+      "name": "cas-xdp-supervisor",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/cas-xdp-supervisor",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Defensive security",
+      "description": "Defensive control plane for local host auditing and operator-approved reversible containment."
+    },
+    {
+      "name": "OIF-Cognitive-Systems",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/OIF-Cognitive-Systems",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "OIF research",
+      "description": "Open research and engineering for cognition, reasoning, memory, planning, learning, and metacognition."
+    },
+    {
+      "name": "canary-labyrinth-httpd",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/canary-labyrinth-httpd",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Defensive security",
+      "description": "Defensive HTTP canary daemon for controlled decoy endpoints and local ingress observation."
+    },
+    {
+      "name": "OI-Swarm-Intelligence",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/OI-Swarm-Intelligence",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "OIF research",
+      "description": "Open Intelligence research for decentralized AI swarms and collective reasoning."
+    },
+    {
+      "name": "OIF-AI-Security",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/OIF-AI-Security",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Defensive security",
+      "description": "Open AI security research and defensive engineering."
+    },
+    {
+      "name": "OIF-Cyber-Intelligence",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/OIF-Cyber-Intelligence",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "OIF research",
+      "description": "Open defensive cyber intelligence research."
+    },
+    {
+      "name": "OIF-Collective-Intelligence",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/OIF-Collective-Intelligence",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "OIF research",
+      "description": "Open research for federated AI and collective reasoning."
+    },
+    {
+      "name": "OIF-Conformance-Lab",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/OIF-Conformance-Lab",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "OIF research",
+      "description": "Open testing, benchmarking, protocol conformance, and reproducible research."
+    },
+    {
+      "name": "OIF-Systems-Intelligence",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/OIF-Systems-Intelligence",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "OIF research",
+      "description": "Open computer and systems intelligence research."
+    },
+    {
+      "name": "posix-containment-kit",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/posix-containment-kit",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Defensive security",
+      "description": "POSIX host inspection and operator-authorized reversible containment toolkit."
+    },
+    {
+      "name": "xdp-ingress-primitives",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/xdp-ingress-primitives",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Defensive security",
+      "description": "Linux XDP ingress filtering primitives."
+    },
+    {
+      "name": "cas-threat-index",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/cas-threat-index",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Defensive security",
+      "description": "Defensive artifact trust registry."
+    },
+    {
+      "name": "OIF-Model-Intelligence",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/OIF-Model-Intelligence",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "OIF research",
+      "description": "Open model intelligence research."
+    },
+    {
+      "name": "Open-Intelligence-Fabric",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/Open-Intelligence-Fabric",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "OIF foundation",
+      "description": "Open standards, terminology, taxonomy, schemas, resource contracts, and interoperability foundation."
+    }
+  ]
+}

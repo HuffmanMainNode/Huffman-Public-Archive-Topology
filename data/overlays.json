@@ -1,0 +1,98 @@
+{
+  "snapshot_date": "2026-11-22",
+  "planes": [
+    {
+      "id": "P1",
+      "name": "Archive and evidence",
+      "repositories": [
+        "Protocol-Helios",
+        "Project-Helios-US-Archive",
+        "Project_Lazarus_OSINT",
+        "Curated-Modern-OSINT-Tools",
+        "OIF-Research-Observatory"
+      ]
+    },
+    {
+      "id": "P2",
+      "name": "Exchange and protocol",
+      "repositories": [
+        "Open-Intelligence-Exchange",
+        "Huffman-Protocol",
+        "Open-Intelligence-Fabric",
+        "Multi-Agent-Swarm-Guardrails"
+      ]
+    },
+    {
+      "id": "P3",
+      "name": "Orchestration and cognition",
+      "repositories": [
+        "-Open-Swarm",
+        "OI-Swarm-Intelligence",
+        "OIF-Cognitive-Systems",
+        "OIF-Collective-Intelligence",
+        "OpenWorkSpace"
+      ]
+    },
+    {
+      "id": "P4",
+      "name": "Defensive security",
+      "repositories": [
+        "Huffman-Cyber-Observatory",
+        "Huffman-Defensive-Intelligence",
+        "cas-xdp-supervisor",
+        "posix-containment-kit",
+        "xdp-ingress-primitives",
+        "cas-threat-index",
+        "canary-labyrinth-httpd",
+        "OIF-Cyber-Intelligence",
+        "OIF-AI-Security"
+      ]
+    },
+    {
+      "id": "P5",
+      "name": "Model and systems research",
+      "repositories": [
+        "OIF-Model-Intelligence",
+        "OIF-Systems-Intelligence",
+        "Huffman-Reverse-Intelligence"
+      ]
+    },
+    {
+      "id": "P6",
+      "name": "Archive governance and tooling",
+      "repositories": [
+        "repo-mesh-blueprint",
+        "mesh-archivist-engine",
+        "Huffman-Public-Archive-Topology"
+      ]
+    }
+  ],
+  "maturity_tiers": [
+    {
+      "id": "T0",
+      "meaning": "Announcement or empty"
+    },
+    {
+      "id": "T1",
+      "meaning": "Research, specification, or curated catalog"
+    },
+    {
+      "id": "T2",
+      "meaning": "Prototype or bounded utility"
+    },
+    {
+      "id": "T3",
+      "meaning": "Documented integration or orchestration"
+    },
+    {
+      "id": "T4",
+      "meaning": "Archive infrastructure"
+    }
+  ],
+  "edge_classes": [
+    "documented-integration",
+    "project-family",
+    "conceptual-adjacency",
+    "unverified"
+  ]
+}

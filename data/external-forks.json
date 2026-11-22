@@ -1,0 +1,134 @@
+{
+  "schema_version": "1.0.0",
+  "snapshot_date": "2026-11-22",
+  "count": 14,
+  "classification_rule": "GitHub API repository metadata fork=true; excluded from original-project catalog.",
+  "forks": [
+    {
+      "name": "council-of-high-intelligence-ForkByMrCakes931",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/council-of-high-intelligence-ForkByMrCakes931",
+      "fork": true,
+      "upstream": "0xNyk/council-of-high-intelligence",
+      "upstream_url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "archived": false
+    },
+    {
+      "name": "cvelistV5-ForkByMrCakes931",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/cvelistV5-ForkByMrCakes931",
+      "fork": true,
+      "upstream": "CVEProject/cvelistV5",
+      "upstream_url": "https://github.com/CVEProject/cvelistV5",
+      "archived": false
+    },
+    {
+      "name": "opentui-Fork-MrCakes931",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/opentui-Fork-MrCakes931",
+      "fork": true,
+      "upstream": "anomalyco/opentui",
+      "upstream_url": "https://github.com/anomalyco/opentui",
+      "archived": true
+    },
+    {
+      "name": "Shadowbroker-MrCakes931--TestingFork",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/Shadowbroker-MrCakes931--TestingFork",
+      "fork": true,
+      "upstream": "BigBodyCobain/Shadowbroker",
+      "upstream_url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "archived": false
+    },
+    {
+      "name": "skills-service-ForkByMrCakes931-ZEROTRUST",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/skills-service-ForkByMrCakes931-ZEROTRUST",
+      "fork": true,
+      "upstream": "NationalSecurityAgency/skills-service",
+      "upstream_url": "https://github.com/NationalSecurityAgency/skills-service",
+      "archived": false
+    },
+    {
+      "name": "bit-chat-Jibberlink",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/bit-chat-Jibberlink",
+      "fork": true,
+      "upstream": "permissionlesstech/bitchat-android",
+      "upstream_url": "https://github.com/permissionlesstech/bitchat-android",
+      "archived": true
+    },
+    {
+      "name": "opencode-beta-MrCakes931-Testing",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/opencode-beta-MrCakes931-Testing",
+      "fork": true,
+      "upstream": "anomalyco/opencode-beta",
+      "upstream_url": "https://github.com/anomalyco/opencode-beta",
+      "archived": true
+    },
+    {
+      "name": "osiris-ForkByMrCakes931",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/osiris-ForkByMrCakes931",
+      "fork": true,
+      "upstream": "simplifaisoul/osiris",
+      "upstream_url": "https://github.com/simplifaisoul/osiris",
+      "archived": false
+    },
+    {
+      "name": "ghidra-ForkByMrCakes931",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/ghidra-ForkByMrCakes931",
+      "fork": true,
+      "upstream": "NationalSecurityAgency/ghidra",
+      "upstream_url": "https://github.com/NationalSecurityAgency/ghidra",
+      "archived": false
+    },
+    {
+      "name": "ARC-AGI-3-Agents-ForkByMrCakes931",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/ARC-AGI-3-Agents-ForkByMrCakes931",
+      "fork": true,
+      "upstream": "arcprize/ARC-AGI-3-Agents",
+      "upstream_url": "https://github.com/arcprize/ARC-AGI-3-Agents",
+      "archived": true
+    },
+    {
+      "name": "ELITE-Protocol-ForkByMrCakes931",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/ELITE-Protocol-ForkByMrCakes931",
+      "fork": true,
+      "upstream": "midnightlolz31337/ELITE-Protocol",
+      "upstream_url": "https://github.com/midnightlolz31337/ELITE-Protocol",
+      "archived": false
+    },
+    {
+      "name": "ELITE-Agent-Commons-ForkByMrCakes931",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/ELITE-Agent-Commons-ForkByMrCakes931",
+      "fork": true,
+      "upstream": "midnightlolz31337/ELITE-Agent-Commons",
+      "upstream_url": "https://github.com/midnightlolz31337/ELITE-Agent-Commons",
+      "archived": false
+    },
+    {
+      "name": "ELITE-Ingestion-Core-ForkByMrCakes931",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/ELITE-Ingestion-Core-ForkByMrCakes931",
+      "fork": true,
+      "upstream": "midnightlolz31337/ELITE-Ingestion-Core",
+      "upstream_url": "https://github.com/midnightlolz31337/ELITE-Ingestion-Core",
+      "archived": false
+    },
+    {
+      "name": "Huffman-Network-Atlas-ForkByMrCakes931",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/Huffman-Network-Atlas-ForkByMrCakes931",
+      "fork": true,
+      "upstream": "midnightlolz31337/Huffman-Network-Atlas",
+      "upstream_url": "https://github.com/midnightlolz31337/Huffman-Network-Atlas",
+      "archived": false
+    }
+  ]
+}
