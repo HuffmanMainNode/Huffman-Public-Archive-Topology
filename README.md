@@ -24,7 +24,7 @@ Counts describe the discovery snapshot. The catalog records per-repository evide
 - [External forks](EXTERNAL-FORKS.md): fork inventory and upstream attribution
 - [Architecture notes](ARCHITECTURE.md): reading the topology without overclaiming
 - [Methodology](METHODOLOGY.md): scope, evidence grades, and refresh procedure
-- [Machine-readable data](data/repositories.json), [branches](data/branches.json), [overlays](data/overlays.json)
+- [Machine-readable repositories](data/repositories.json), [branches](data/branches.json), [overlays](data/overlays.json), [external forks](data/external-forks.json)
 
 ## Reading rules
 
