@@ -1,5 +1,9 @@
 # Public Repository Topology
 
+## Federated portfolio extension
+
+The primary-account graph is now part of a six-account public federation. See [MULTI-ACCOUNT-TOPOLOGY.md](MULTI-ACCOUNT-TOPOLOGY.md), [ALT-ACCOUNT-ROSTER.md](ALT-ACCOUNT-ROSTER.md), and [cross-account relationships](data/cross-account-relationships.json). The federation distinguishes original projects, GitHub-confirmed forks, profiles, and a controlled test copy.
+
 For the full narrative describing all portfolio domains, integration paths, cross-cutting principles, and private/public boundaries, see [SYSTEM-OVERVIEW.md](SYSTEM-OVERVIEW.md).
 
 ## Top-level map

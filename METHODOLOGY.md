@@ -1,4 +1,10 @@
-# Methodology and Publication Rules
+# Methodology
+
+## Federation extension
+
+The account-level snapshot below describes HuffmanMainNode only. A separate snapshot dated 2026-11-22 covers five user-supplied alternate accounts. It uses account-scoped repository search followed by individual repository metadata checks. See [MULTI-ACCOUNT-TOPOLOGY.md](MULTI-ACCOUNT-TOPOLOGY.md) and [data/accounts.json](data/accounts.json). Private repositories remain excluded. Do not combine the primary account's fork count with alternate-account counts without using the unified federation ledger.
+
+## Publication Rules
 
 ## Scope
 
