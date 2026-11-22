@@ -1,0 +1,122 @@
+{
+  "schema_version": "1.0.0",
+  "snapshot_date": "2026-11-22",
+  "scope": "Public repositories returned by account-scoped GitHub repository search for HuffmanMainNode and the five explicitly supplied alternate accounts. Private repositories are excluded.",
+  "counts": {
+    "account_count": 6,
+    "public_repositories": 107,
+    "original_project_repositories": 83,
+    "upstream_forks": 17,
+    "controlled_test_copies": 1,
+    "profile_repositories": 6,
+    "main_account": {
+      "public_repositories": 51,
+      "original_projects": 36,
+      "upstream_forks": 14,
+      "profiles": 1
+    },
+    "alternate_accounts": {
+      "public_repositories": 56,
+      "original_projects": 47,
+      "upstream_forks": 3,
+      "controlled_test_copies": 1,
+      "profiles": 5
+    },
+    "by_account": {
+      "HuffmanMainNode": {
+        "public": 51,
+        "original_projects": 36,
+        "forks": 14,
+        "profiles": 1
+      },
+      "PCakes303": {
+        "public": 33,
+        "original_projects": 32,
+        "forks": 0,
+        "profiles": 1
+      },
+      "HuffmanRepositories": {
+        "public": 12,
+        "original_projects": 11,
+        "forks": 0,
+        "profiles": 1
+      },
+      "midnightlolz31337": {
+        "public": 5,
+        "original_projects": 4,
+        "forks": 0,
+        "profiles": 1
+      },
+      "roberthuffman": {
+        "public": 4,
+        "original_projects": 0,
+        "forks": 2,
+        "controlled_test_copies": 1,
+        "profiles": 1
+      },
+      "Ryzean84": {
+        "public": 2,
+        "original_projects": 0,
+        "forks": 1,
+        "profiles": 1
+      }
+    }
+  },
+  "accounts": [
+    {
+      "login": "HuffmanMainNode",
+      "role": "Primary public portfolio and archive index",
+      "url": "https://github.com/HuffmanMainNode",
+      "public_repositories": 51,
+      "original_projects": 36,
+      "forks": 14,
+      "profile_repositories": 1
+    },
+    {
+      "login": "PCakes303",
+      "role": "MrCakes931 Agent Intelligence Ecosystem; canonical control plane, agent foundations, protocols, swarm, OSINT/evidence, adoption, and governance",
+      "url": "https://github.com/PCakes303",
+      "public_repositories": 33,
+      "original_projects": 32,
+      "forks": 0,
+      "profile_repositories": 1
+    },
+    {
+      "login": "HuffmanRepositories",
+      "role": "Public ecosystem directory, interoperability research, mission, and synthetic agent reliability fixtures",
+      "url": "https://github.com/HuffmanRepositories",
+      "public_repositories": 12,
+      "original_projects": 11,
+      "forks": 0,
+      "profile_repositories": 1
+    },
+    {
+      "login": "midnightlolz31337",
+      "role": "ELITE evidence/provenance protocol, ingestion, discovery commons, and federated ecosystem atlas",
+      "url": "https://github.com/midnightlolz31337",
+      "public_repositories": 5,
+      "original_projects": 4,
+      "forks": 0,
+      "profile_repositories": 1
+    },
+    {
+      "login": "roberthuffman",
+      "role": "Controlled testing copies and profile; no distinct original project counted in this snapshot",
+      "url": "https://github.com/roberthuffman",
+      "public_repositories": 4,
+      "original_projects": 0,
+      "forks": 2,
+      "controlled_test_copies": 1,
+      "profile_repositories": 1
+    },
+    {
+      "login": "Ryzean84",
+      "role": "Research workspace profile and a fork of the main-account OSINT tools directory",
+      "url": "https://github.com/Ryzean84",
+      "public_repositories": 2,
+      "original_projects": 0,
+      "forks": 1,
+      "profile_repositories": 1
+    }
+  ]
+}
