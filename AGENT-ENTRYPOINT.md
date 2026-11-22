@@ -19,13 +19,13 @@ This repository is a public, evidence-led directory of repositories across six G
 - Preserve fork attribution. A fork is not an original project merely because it appears in this collection.
 - Treat `family` as a discovery grouping, not a dependency declaration.
 - Treat descriptions and project claims as declared intent unless independently supported by source review, tests, releases, or other evidence.
-- Treat the snapshot date as the observation date. Do not imply the ledger is live or continuously synchronized.
+- Treat the snapshot date and per-record verification timestamp as the last successful metadata observation. The scheduled workflow refreshes public metadata daily, but it is not a live feed and can be delayed or fail. Check the latest successful Actions run before claiming freshness.
 - Do not infer private repositories, private infrastructure, private relationships, or unpublished implementation details.
 - When reporting a capability, cite the specific repository and evidence that supports it.
 
 ## Suggested discovery workflow
 
-Filter the JSON ledger by `account`, `classification`, or `family`; then open the canonical `url`. For implementation questions, inspect the repository's default branch, README, manifests, source, tests, and release history. Record uncertainty rather than filling gaps with assumptions.
+Filter the JSON ledger by `account`, `classification`, or `family`; then open the canonical `url`. The scheduled refresh checks all six configured accounts daily; see [Catalogue Synchronization](docs/CATALOGUE-SYNCHRONIZATION.md). For implementation questions, inspect the repository's default branch, README, manifests, source, tests, and release history. Record uncertainty rather than filling gaps with assumptions.
 
 ## Schema
 

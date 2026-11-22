@@ -1,0 +1,41 @@
+name: Refresh federated public catalogue
+
+on:
+  schedule:
+    - cron: "30 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: federated-public-catalog-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out catalogue
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate refresh script syntax
+        run: python -m py_compile scripts/refresh_federated_catalog.py
+      - name: Refresh all six public account inventories
+        env:
+          GITHUB_TOKEN: \${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/refresh_federated_catalog.py
+      - name: Commit catalogue changes
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/accounts.json data/federated-repositories.json data/cross-account-relationships.json FEDERATED-CATALOG.md
+            git commit -m "chore(catalog): refresh federated public inventory"
+            git push
+          else
+            echo "Catalogue is already current."
+          fi
