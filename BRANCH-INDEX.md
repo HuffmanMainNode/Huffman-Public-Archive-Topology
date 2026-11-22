@@ -41,6 +41,8 @@ Point-in-time inventory of branch names observed on original repositories at sna
 | OIF-Model-Intelligence | `main`; `build/oif-v1-foundation` |
 | Open-Intelligence-Fabric | `main`; `build/oif-v1-foundation` |
 
+| Huffman-Public-Archive-Topology | `main`; `build/public-account-topology-v1` |
+
 ## Caveat
 
 This table lists observed branch names, not all commits or PRs. For repositories with very large branch sets, the table is intentionally compact; the machine-readable file should be used as the structured index.
