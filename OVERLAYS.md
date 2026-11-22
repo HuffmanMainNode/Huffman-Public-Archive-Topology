@@ -1,5 +1,7 @@
 # Architectural Overlays
 
+The overlays apply across the wider six-account public portfolio. The complete account-by-account mapping and integration relationships are in [MULTI-ACCOUNT-TOPOLOGY.md](MULTI-ACCOUNT-TOPOLOGY.md).
+
 The complete narrative of the public portfolio is in [SYSTEM-OVERVIEW.md](SYSTEM-OVERVIEW.md). The refreshed account snapshot contains 37 non-fork repositories (including the profile and this index) and 14 forks.
 
 This document overlays the public portfolio using functional planes and maturity tiers. The overlays are an organizing model for the public archive, not a claim that every project participates in a single deployed system.
