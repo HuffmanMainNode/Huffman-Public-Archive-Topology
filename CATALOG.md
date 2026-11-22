@@ -60,6 +60,7 @@ This catalog contains repositories confirmed by GitHub metadata as non-forks und
 
 | Repository | Public purpose | Evidence / maturity note |
 |---|---|---|
+| [Huffman-Public-Archive-Topology](https://github.com/HuffmanMainNode/Huffman-Public-Archive-Topology) | Public account-wide topology, system description, overlays, branch index, and fork attribution | This repository is the public inventory/projection layer; it does not contain private archive information or act as a live controller. |
 | [repo-mesh-blueprint](https://github.com/HuffmanMainNode/repo-mesh-blueprint) | Federated repository mesh architectural standard | Defines recursive M × (1 + 1 + N) topology, WAL checkpointing, runtime reconstruction, dependency contracts, failure ledgers, and controlled public projection. |
 | [mesh-archivist-engine](https://github.com/HuffmanMainNode/mesh-archivist-engine) | Repository mesh archival and orchestration engine | Public tooling for deterministic namespace discovery, DAG verification, gap planning, and deny-by-default public-ledger promotion. |
 
