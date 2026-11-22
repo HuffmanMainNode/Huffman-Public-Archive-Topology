@@ -1,6 +1,11 @@
 name: Refresh federated public catalogue
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/refresh_federated_catalog.py'
+      - '.github/workflows/refresh-federated-catalog.yml'
   schedule:
     - cron: "30 12 * * *"
   workflow_dispatch:
