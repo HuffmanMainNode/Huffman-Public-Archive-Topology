@@ -35,6 +35,7 @@ This is a refreshed completeness snapshot from 2026-11-22. GitHub search returne
 - [External forks](EXTERNAL-FORKS.md): fork inventory and upstream attribution
 - [Architecture notes](ARCHITECTURE.md): reading the topology without overclaiming
 - [Methodology](METHODOLOGY.md): scope, evidence grades, and refresh procedure
+- [Catalogue synchronization](docs/CATALOGUE-SYNCHRONIZATION.md): refresh behavior, boundaries, and troubleshooting
 - [Primary-account repositories](data/repositories.json), [branches](data/branches.json), [overlays](data/overlays.json), [primary-account forks](data/external-forks.json)
 
 ## Reading rules
@@ -47,4 +48,4 @@ This is a refreshed completeness snapshot from 2026-11-22. GitHub search returne
 
 ## Update policy
 
-Refresh repository metadata and branches from GitHub before publishing a new snapshot. Record the snapshot date, preserve upstream attribution for forks, and review all proposed relationship edges against public documentation before adding them.
+The [scheduled catalogue workflow](.github/workflows/refresh-federated-catalog.yml) refreshes public repository metadata for all six configured accounts daily and supports manual runs. See [Catalogue Synchronization](docs/CATALOGUE-SYNCHRONIZATION.md) for scope and limitations. Project-family and interoperability relationships remain editorially reviewed; metadata refresh does not certify implementation or maturity.
