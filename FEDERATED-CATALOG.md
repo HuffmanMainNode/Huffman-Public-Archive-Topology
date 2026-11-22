@@ -5,11 +5,11 @@ Human-readable directory for the six-account public collection. Repository names
 ## Collection at a glance
 
 - Snapshot: 2026-11-22
-- Last verified: 2026-11-22T09:14:07Z
+- Last verified: 2026-11-22T19:54:46Z
 - Accounts: 6
-- Public repositories: 110
-- Original project repositories (including portfolio index): 84
-- GitHub-confirmed upstream forks: 19
+- Public repositories: 121
+- Original project repositories (including portfolio index): 92
+- GitHub-confirmed upstream forks: 22
 - Controlled test copies: 1
 - Profile repositories: 6
 
@@ -17,12 +17,12 @@ Human-readable directory for the six-account public collection. Repository names
 
 | Account | Public repositories | Collection role |
 |---|---:|---|
-| [HuffmanMainNode](https://github.com/HuffmanMainNode) | 51 | Primary public portfolio and archive index |
+| [HuffmanMainNode](https://github.com/HuffmanMainNode) | 52 | Primary public portfolio and archive index |
 | [PCakes303](https://github.com/PCakes303) | 33 | MrCakes931 Agent Intelligence Ecosystem; canonical control plane, agent foundations, protocols, swarm, OSINT/evidence, adoption, and governance |
 | [HuffmanRepositories](https://github.com/HuffmanRepositories) | 12 | Public ecosystem directory, interoperability research, mission, and synthetic agent reliability fixtures |
-| [midnightlolz31337](https://github.com/midnightlolz31337) | 5 | ELITE evidence/provenance protocol, ingestion, discovery commons, and federated ecosystem atlas |
+| [midnightlolz31337](https://github.com/midnightlolz31337) | 14 | ELITE evidence/provenance protocol, ingestion, discovery commons, and federated ecosystem atlas |
 | [roberthuffman](https://github.com/roberthuffman) | 4 | Controlled testing copies and profile; no distinct original project counted in this snapshot |
-| [Ryzean84](https://github.com/Ryzean84) | 5 | Research workspace profile and a fork of the main-account OSINT tools directory |
+| [Ryzean84](https://github.com/Ryzean84) | 6 | Research workspace profile and a fork of the main-account OSINT tools directory |
 
 ## Repository directory
 
@@ -33,6 +33,7 @@ Primary public portfolio and archive index
 | Repository | Classification | Project family | Description | Upstream |
 |---|---|---|---|---|
 | [-Open-Swarm](https://github.com/HuffmanMainNode/-Open-Swarm) | original project | Orchestration | Local-first multi-agent orchestration. | Not applicable / not recorded |
+| [Agent-Gauntlet](https://github.com/HuffmanMainNode/Agent-Gauntlet) | original project | Unclassified | Open Source Public Prove It Experiment. An open, decentralized proving ground for AI agents, challenges, and reproducible evidence. | Not applicable / not recorded |
 | [ARC-AGI-3-Agents-ForkByMrCakes931](https://github.com/HuffmanMainNode/ARC-AGI-3-Agents-ForkByMrCakes931) | upstream fork | Unclassified | No description supplied; consult the repository README. | [arcprize/ARC-AGI-3-Agents](https://github.com/arcprize/ARC-AGI-3-Agents) |
 | [bit-chat-Jibberlink](https://github.com/HuffmanMainNode/bit-chat-Jibberlink) | upstream fork | Unclassified | bluetooth mesh chat, IRC vibes | [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) |
 | [canary-labyrinth-httpd](https://github.com/HuffmanMainNode/canary-labyrinth-httpd) | original project | Defensive security | Defensive HTTP canary daemon for controlled decoy endpoints and local ingress observation. | Not applicable / not recorded |
@@ -84,7 +85,7 @@ Primary public portfolio and archive index
 | [skills-service-ForkByMrCakes931-ZEROTRUST](https://github.com/HuffmanMainNode/skills-service-ForkByMrCakes931-ZEROTRUST) | upstream fork | Unclassified | SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications. | [NationalSecurityAgency/skills-service](https://github.com/NationalSecurityAgency/skills-service) |
 | [xdp-ingress-primitives](https://github.com/HuffmanMainNode/xdp-ingress-primitives) | original project | Defensive security | Linux XDP ingress filtering primitives. | Not applicable / not recorded |
 
-<sub>51 repository records in this account section.</sub>
+<sub>52 repository records in this account section.</sub>
 
 ### [PCakes303](https://github.com/PCakes303)
 
@@ -156,12 +157,21 @@ ELITE evidence/provenance protocol, ingestion, discovery commons, and federated 
 | Repository | Classification | Project family | Description | Upstream |
 |---|---|---|---|---|
 | [ELITE-Agent-Commons](https://github.com/midnightlolz31337/ELITE-Agent-Commons) | original project | agent discovery | An open, machine-readable discovery and coordination commons for AI agents and research tools. | Not applicable / not recorded |
+| [ELITE-Field-Kit](https://github.com/midnightlolz31337/ELITE-Field-Kit) | original project | Unclassified | Local-first OSINT field kit for evidence-led research, ingestion and reproducible workflows. | Not applicable / not recorded |
 | [ELITE-Ingestion-Core](https://github.com/midnightlolz31337/ELITE-Ingestion-Core) | original project | evidence ingestion | A provenance-first data ingestion and validation engine with quarantine, data-quality controls, and poisoning defenses. | Not applicable / not recorded |
 | [ELITE-Protocol](https://github.com/midnightlolz31337/ELITE-Protocol) | original project | protocol and provenance | Open protocols for evidence exchange, provenance, trust boundaries, and interoperable intelligence systems. | Not applicable / not recorded |
+| [ELITE-Workstation](https://github.com/midnightlolz31337/ELITE-Workstation) | original project | Unclassified | Modular local-first OSINT workstation integrating evidence, ingestion, discovery and federation. | Not applicable / not recorded |
 | [Huffman-Network-Atlas](https://github.com/midnightlolz31337/Huffman-Network-Atlas) | original project | portfolio atlas | A federated, evidence-backed map of the Huffman Systems ecosystem, repositories, capabilities, dependencies, and provenance. | Not applicable / not recorded |
+| [Huffman-Public-Archive-Topology-Fork](https://github.com/midnightlolz31337/Huffman-Public-Archive-Topology-Fork) | upstream fork | Unclassified | Public topology and architectural overlay of original HuffmanMainNode repositories, with external forks identified and linked separately. | [HuffmanMainNode/Huffman-Public-Archive-Topology](https://github.com/HuffmanMainNode/Huffman-Public-Archive-Topology) |
+| [LoLz-Mesh-Atlas](https://github.com/midnightlolz31337/LoLz-Mesh-Atlas) | original project | Unclassified | Forkable public catalogue of LoLz projects, independent nodes, capabilities and compatibility. | Not applicable / not recorded |
+| [LoLz-Mesh-Conformance](https://github.com/midnightlolz31337/LoLz-Mesh-Conformance) | original project | Unclassified | Open conformance tests for independent mesh nodes, protocols and federation. | Not applicable / not recorded |
+| [LoLz-Reverse-Engineering-Commons](https://github.com/midnightlolz31337/LoLz-Reverse-Engineering-Commons) | original project | Unclassified | Reproducible open technical research on software formats, protocols, APIs and interoperability. | Not applicable / not recorded |
+| [mesh-archivist-engine-LoLz](https://github.com/midnightlolz31337/mesh-archivist-engine-LoLz) | upstream fork | Unclassified | Controlled Fork Zero-dependency Python repository mesh archival and orchestration engine providing deterministic WAL-backed namespace discovery, DAG verification, runtime reconstruction, architectural gap planning, agent integration, and cryptographically verified one-way public ledger promotion. | [HuffmanMainNode/mesh-archivist-engine](https://github.com/HuffmanMainNode/mesh-archivist-engine) |
 | [midnightlolz31337](https://github.com/midnightlolz31337/midnightlolz31337) | profile | Unclassified | Official Face for Midnightlolz31337 | Not applicable / not recorded |
+| [NoGatekeepers-Index](https://github.com/midnightlolz31337/NoGatekeepers-Index) | original project | Unclassified | Evidence-backed index of platform lock-in, data portability, interoperability and independent alternatives. | Not applicable / not recorded |
+| [repo-mesh-blueprint-LoLz](https://github.com/midnightlolz31337/repo-mesh-blueprint-LoLz) | upstream fork | Unclassified | Controlled Fork. Federated repository mesh architectural standard defining recursive M × (1 + 1 + N) topology, crash-safe WAL checkpointing, runtime reconstruction, dependency contracts, failure ledgers, and controlled private-to-public projection. | [HuffmanMainNode/repo-mesh-blueprint](https://github.com/HuffmanMainNode/repo-mesh-blueprint) |
 
-<sub>5 repository records in this account section.</sub>
+<sub>14 repository records in this account section.</sub>
 
 ### [roberthuffman](https://github.com/roberthuffman)
 
@@ -183,12 +193,13 @@ Research workspace profile and a fork of the main-account OSINT tools directory
 | Repository | Classification | Project family | Description | Upstream |
 |---|---|---|---|---|
 | [Curated-Modern-OSINT-Tools-ForkBy_Ryzean84](https://github.com/Ryzean84/Curated-Modern-OSINT-Tools-ForkBy_Ryzean84) | upstream fork | Unclassified | A curated directory of modern, zero-trust validated OSINT tools. Fork By Ryzean 84 | [HuffmanMainNode/Curated-Modern-OSINT-Tools](https://github.com/HuffmanMainNode/Curated-Modern-OSINT-Tools) |
+| [Global-Rights-and-Law-Atlas](https://github.com/Ryzean84/Global-Rights-and-Law-Atlas) | original project | Unclassified | An international, multilingual, source-linked collection of founding documents, constitutions, laws, rights and protections. | Not applicable / not recorded |
 | [mesh-archivist-engine-ControlledFork-by-MrCakes931-](https://github.com/Ryzean84/mesh-archivist-engine-ControlledFork-by-MrCakes931-) | upstream fork | Unclassified | Controlled Fork by MrCakes931- 11/22/26 , 1:41 MT - Zero-dependency Python repository mesh archival and orchestration engine providing deterministic WAL-backed namespace discovery, DAG verification, runtime reconstruction, architectural gap planning, agent integration, and cryptographically verified one-way public ledger promotion. | [HuffmanMainNode/mesh-archivist-engine](https://github.com/HuffmanMainNode/mesh-archivist-engine) |
 | [Open-Journalism-Evidence-Kit](https://github.com/Ryzean84/Open-Journalism-Evidence-Kit) | original project | Unclassified | A portable, local-first toolkit for evidence provenance, source verification, reproducible public-interest research and correction tracking. | Not applicable / not recorded |
 | [repo-mesh-blueprint-ControlledFork-by-MrCakes931](https://github.com/Ryzean84/repo-mesh-blueprint-ControlledFork-by-MrCakes931) | upstream fork | Unclassified | Controlled Fork by Robert Huffman, on Ryzean84 account. Tester Fork. 11/22/26 - 1:35am MT - Federated repository mesh architectural standard defining recursive M × (1 + 1 + N) topology, crash-safe WAL checkpointing, runtime reconstruction, dependency contracts, failure ledgers, and controlled private-to-public projection. | [HuffmanMainNode/repo-mesh-blueprint](https://github.com/HuffmanMainNode/repo-mesh-blueprint) |
 | [Ryzean84](https://github.com/Ryzean84/Ryzean84) | profile | Unclassified | Intelligence Architecture & Data Telemetry | Not applicable / not recorded |
 
-<sub>5 repository records in this account section.</sub>
+<sub>6 repository records in this account section.</sub>
 
 ## Classification and evidence
 

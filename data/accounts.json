@@ -1,19 +1,19 @@
 {
   "schema_version": "1.1.0",
   "snapshot_date": "2026-11-22",
-  "last_verified_at": "2026-11-22T09:14:07Z",
+  "last_verified_at": "2026-11-22T19:54:46Z",
   "scope": "All public repositories across the six configured accounts; private repositories are excluded.",
   "counts": {
     "account_count": 6,
-    "public_repositories": 110,
-    "original_project_repositories": 84,
-    "upstream_forks": 19,
+    "public_repositories": 121,
+    "original_project_repositories": 92,
+    "upstream_forks": 22,
     "controlled_test_copies": 1,
     "profile_repositories": 6,
     "by_account": {
       "HuffmanMainNode": {
-        "public": 51,
-        "original_projects": 36,
+        "public": 52,
+        "original_projects": 37,
         "forks": 14,
         "controlled_test_copies": 0,
         "profiles": 1
@@ -33,9 +33,9 @@
         "profiles": 1
       },
       "midnightlolz31337": {
-        "public": 5,
-        "original_projects": 4,
-        "forks": 0,
+        "public": 14,
+        "original_projects": 10,
+        "forks": 3,
         "controlled_test_copies": 0,
         "profiles": 1
       },
@@ -47,23 +47,23 @@
         "profiles": 1
       },
       "Ryzean84": {
-        "public": 5,
-        "original_projects": 1,
+        "public": 6,
+        "original_projects": 2,
         "forks": 3,
         "controlled_test_copies": 0,
         "profiles": 1
       }
     },
     "main_account": {
-      "public_repositories": 51,
-      "original_projects": 36,
+      "public_repositories": 52,
+      "original_projects": 37,
       "upstream_forks": 14,
       "profiles": 1
     },
     "alternate_accounts": {
-      "public_repositories": 59,
-      "original_projects": 48,
-      "upstream_forks": 5,
+      "public_repositories": 69,
+      "original_projects": 55,
+      "upstream_forks": 8,
       "controlled_test_copies": 1,
       "profiles": 5
     }
@@ -73,12 +73,12 @@
       "login": "HuffmanMainNode",
       "role": "Primary public portfolio and archive index",
       "url": "https://github.com/HuffmanMainNode",
-      "public_repositories": 51,
-      "original_projects": 36,
+      "public_repositories": 52,
+      "original_projects": 37,
       "forks": 14,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "login": "PCakes303",
@@ -89,7 +89,7 @@
       "forks": 0,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "login": "HuffmanRepositories",
@@ -100,18 +100,18 @@
       "forks": 0,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "login": "midnightlolz31337",
       "role": "ELITE evidence/provenance protocol, ingestion, discovery commons, and federated ecosystem atlas",
       "url": "https://github.com/midnightlolz31337",
-      "public_repositories": 5,
-      "original_projects": 4,
-      "forks": 0,
+      "public_repositories": 14,
+      "original_projects": 10,
+      "forks": 3,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "login": "roberthuffman",
@@ -122,18 +122,18 @@
       "forks": 2,
       "controlled_test_copies": 1,
       "profile_repositories": 1,
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "login": "Ryzean84",
       "role": "Research workspace profile and a fork of the main-account OSINT tools directory",
       "url": "https://github.com/Ryzean84",
-      "public_repositories": 5,
-      "original_projects": 1,
+      "public_repositories": 6,
+      "original_projects": 2,
       "forks": 3,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     }
   ]
 }

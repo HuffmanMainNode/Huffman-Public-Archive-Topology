@@ -1,19 +1,19 @@
 {
   "schema_version": "1.1.0",
   "snapshot_date": "2026-11-22",
-  "last_verified_at": "2026-11-22T09:14:07Z",
+  "last_verified_at": "2026-11-22T19:54:46Z",
   "scope": "All public repositories across the six configured accounts; private repositories are excluded.",
   "counts": {
     "account_count": 6,
-    "public_repositories": 110,
-    "original_project_repositories": 84,
-    "upstream_forks": 19,
+    "public_repositories": 121,
+    "original_project_repositories": 92,
+    "upstream_forks": 22,
     "controlled_test_copies": 1,
     "profile_repositories": 6,
     "by_account": {
       "HuffmanMainNode": {
-        "public": 51,
-        "original_projects": 36,
+        "public": 52,
+        "original_projects": 37,
         "forks": 14,
         "controlled_test_copies": 0,
         "profiles": 1
@@ -33,9 +33,9 @@
         "profiles": 1
       },
       "midnightlolz31337": {
-        "public": 5,
-        "original_projects": 4,
-        "forks": 0,
+        "public": 14,
+        "original_projects": 10,
+        "forks": 3,
         "controlled_test_copies": 0,
         "profiles": 1
       },
@@ -47,23 +47,23 @@
         "profiles": 1
       },
       "Ryzean84": {
-        "public": 5,
-        "original_projects": 1,
+        "public": 6,
+        "original_projects": 2,
         "forks": 3,
         "controlled_test_copies": 0,
         "profiles": 1
       }
     },
     "main_account": {
-      "public_repositories": 51,
-      "original_projects": 36,
+      "public_repositories": 52,
+      "original_projects": 37,
       "upstream_forks": 14,
       "profiles": 1
     },
     "alternate_accounts": {
-      "public_repositories": 59,
-      "original_projects": 48,
-      "upstream_forks": 5,
+      "public_repositories": 69,
+      "original_projects": 55,
+      "upstream_forks": 8,
       "controlled_test_copies": 1,
       "profiles": 5
     }
@@ -73,12 +73,12 @@
       "login": "HuffmanMainNode",
       "role": "Primary public portfolio and archive index",
       "url": "https://github.com/HuffmanMainNode",
-      "public_repositories": 51,
-      "original_projects": 36,
+      "public_repositories": 52,
+      "original_projects": 37,
       "forks": 14,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "login": "PCakes303",
@@ -89,7 +89,7 @@
       "forks": 0,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "login": "HuffmanRepositories",
@@ -100,18 +100,18 @@
       "forks": 0,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "login": "midnightlolz31337",
       "role": "ELITE evidence/provenance protocol, ingestion, discovery commons, and federated ecosystem atlas",
       "url": "https://github.com/midnightlolz31337",
-      "public_repositories": 5,
-      "original_projects": 4,
-      "forks": 0,
+      "public_repositories": 14,
+      "original_projects": 10,
+      "forks": 3,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "login": "roberthuffman",
@@ -122,18 +122,18 @@
       "forks": 2,
       "controlled_test_copies": 1,
       "profile_repositories": 1,
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "login": "Ryzean84",
       "role": "Research workspace profile and a fork of the main-account OSINT tools directory",
       "url": "https://github.com/Ryzean84",
-      "public_repositories": 5,
-      "original_projects": 1,
+      "public_repositories": 6,
+      "original_projects": 2,
       "forks": 3,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     }
   ],
   "repositories": [
@@ -157,7 +157,28 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
+    },
+    {
+      "name": "Agent-Gauntlet",
+      "owner": "HuffmanMainNode",
+      "account": "HuffmanMainNode",
+      "full_name": "HuffmanMainNode/Agent-Gauntlet",
+      "url": "https://github.com/HuffmanMainNode/Agent-Gauntlet",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "description": "Open Source Public Prove It Experiment. An open, decentralized proving ground for AI agents, challenges, and reproducible evidence.",
+      "github_description": "Open Source Public Prove It Experiment. An open, decentralized proving ground for AI agents, challenges, and reproducible evidence.",
+      "classification": "original_project",
+      "evidence_level": "repository_metadata_verified",
+      "created_at": "2026-11-22T10:51:39Z",
+      "updated_at": "2026-11-22T10:56:34Z",
+      "pushed_at": "2026-11-22T19:05:19Z",
+      "language": "Python",
+      "license_spdx_id": "Apache-2.0",
+      "topics": [],
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "ARC-AGI-3-Agents-ForkByMrCakes931",
@@ -178,7 +199,7 @@
       "language": "Python",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z",
+      "last_verified_at": "2026-11-22T19:54:46Z",
       "upstream": "arcprize/ARC-AGI-3-Agents",
       "upstream_url": "https://github.com/arcprize/ARC-AGI-3-Agents"
     },
@@ -201,7 +222,7 @@
       "language": "Kotlin",
       "license_spdx_id": "GPL-3.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z",
+      "last_verified_at": "2026-11-22T19:54:46Z",
       "upstream": "permissionlesstech/bitchat-android",
       "upstream_url": "https://github.com/permissionlesstech/bitchat-android"
     },
@@ -220,12 +241,12 @@
       "full_name": "HuffmanMainNode/canary-labyrinth-httpd",
       "github_description": "Open-source defensive HTTP canary daemon for controlled decoy endpoints, local ingress observation, structured event recording, and validated STIX 2.1 export.",
       "created_at": "2026-11-22T02:03:20Z",
-      "updated_at": "2026-11-22T07:37:16Z",
+      "updated_at": "2026-11-22T10:32:02Z",
       "pushed_at": "2026-11-22T06:07:04Z",
       "language": "Python",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "cas-threat-index",
@@ -242,12 +263,12 @@
       "full_name": "HuffmanMainNode/cas-threat-index",
       "github_description": "Open-source defensive artifact trust registry for cryptographic integrity, publisher provenance, signed manifests, revocation status, and version-pinned artifact indexing.",
       "created_at": "2026-11-22T02:00:04Z",
-      "updated_at": "2026-11-22T07:37:20Z",
+      "updated_at": "2026-11-22T10:32:06Z",
       "pushed_at": "2026-11-22T06:04:10Z",
       "language": "Python",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "cas-xdp-supervisor",
@@ -264,12 +285,12 @@
       "full_name": "HuffmanMainNode/cas-xdp-supervisor",
       "github_description": "Open-source defensive control plane for local host auditing, operator-approved reversible containment, and scoped MCP tool interfaces.",
       "created_at": "2026-11-22T01:56:45Z",
-      "updated_at": "2026-11-22T07:37:15Z",
+      "updated_at": "2026-11-22T10:31:58Z",
       "pushed_at": "2026-11-22T06:49:01Z",
       "language": "Python",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Coming-Soon-Project-AVI",
@@ -291,7 +312,7 @@
       "language": "Python",
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "council-of-high-intelligence-ForkByMrCakes931",
@@ -312,7 +333,7 @@
       "language": "Shell",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z",
+      "last_verified_at": "2026-11-22T19:54:46Z",
       "upstream": "0xNyk/council-of-high-intelligence",
       "upstream_url": "https://github.com/0xNyk/council-of-high-intelligence"
     },
@@ -342,7 +363,7 @@
         "public-portfolio",
         "showcase"
       ],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Curated-Modern-OSINT-Tools",
@@ -370,7 +391,7 @@
         "public-portfolio",
         "showcase"
       ],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "cvelistV5-ForkByMrCakes931",
@@ -391,7 +412,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z",
+      "last_verified_at": "2026-11-22T19:54:46Z",
       "upstream": "CVEProject/cvelistV5",
       "upstream_url": "https://github.com/CVEProject/cvelistV5"
     },
@@ -414,7 +435,7 @@
       "language": null,
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z",
+      "last_verified_at": "2026-11-22T19:54:46Z",
       "upstream": "midnightlolz31337/ELITE-Agent-Commons",
       "upstream_url": "https://github.com/midnightlolz31337/ELITE-Agent-Commons"
     },
@@ -432,12 +453,12 @@
       "description": "Open Experiment. Reviewing Integration. A provenance-first data ingestion and validation engine with quarantine, data-quality controls, and poisoning defenses.",
       "github_description": "Open Experiment. Reviewing Integration. A provenance-first data ingestion and validation engine with quarantine, data-quality controls, and poisoning defenses.",
       "created_at": "2026-11-10T05:31:38Z",
-      "updated_at": "2026-11-22T05:01:49Z",
+      "updated_at": "2026-11-22T10:32:10Z",
       "pushed_at": "2026-11-22T04:01:45Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z",
+      "last_verified_at": "2026-11-22T19:54:46Z",
       "upstream": "midnightlolz31337/ELITE-Ingestion-Core",
       "upstream_url": "https://github.com/midnightlolz31337/ELITE-Ingestion-Core"
     },
@@ -460,7 +481,7 @@
       "language": null,
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z",
+      "last_verified_at": "2026-11-22T19:54:46Z",
       "upstream": "midnightlolz31337/ELITE-Protocol",
       "upstream_url": "https://github.com/midnightlolz31337/ELITE-Protocol"
     },
@@ -483,7 +504,7 @@
       "language": "Java",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z",
+      "last_verified_at": "2026-11-22T19:54:46Z",
       "upstream": "NationalSecurityAgency/ghidra",
       "upstream_url": "https://github.com/NationalSecurityAgency/ghidra"
     },
@@ -507,7 +528,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Halloween-OSINT-2026",
@@ -529,7 +550,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Halloween2-OSINT-2026",
@@ -551,7 +572,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Happy-Halloween-2026",
@@ -573,7 +594,7 @@
       "language": "Python",
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Huffman-Cyber-Observatory",
@@ -595,7 +616,7 @@
       "language": "Python",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Huffman-Defensive-Intelligence",
@@ -617,7 +638,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Huffman-Network-Atlas-ForkByMrCakes931",
@@ -638,7 +659,7 @@
       "language": null,
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z",
+      "last_verified_at": "2026-11-22T19:54:46Z",
       "upstream": "midnightlolz31337/Huffman-Network-Atlas",
       "upstream_url": "https://github.com/midnightlolz31337/Huffman-Network-Atlas"
     },
@@ -662,7 +683,7 @@
       "language": "Python",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Huffman-Public-Archive-Topology",
@@ -679,12 +700,12 @@
       "full_name": "HuffmanMainNode/Huffman-Public-Archive-Topology",
       "github_description": "Public topology and architectural overlay of original HuffmanMainNode repositories, with external forks identified and linked separately.",
       "created_at": "2026-11-22T07:40:15Z",
-      "updated_at": "2026-11-22T09:00:24Z",
-      "pushed_at": "2026-11-22T09:14:00Z",
+      "updated_at": "2026-11-22T10:31:55Z",
+      "pushed_at": "2026-11-22T09:14:17Z",
       "language": "Python",
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Huffman-Reverse-Intelligence",
@@ -701,12 +722,12 @@
       "full_name": "HuffmanMainNode/Huffman-Reverse-Intelligence",
       "github_description": "Experiment Open-source initiative to build a universal, extensible, evidence-driven reverse-engineering and technical intelligence workbench. Planned capabilities include software and binary analysis, firmware research, protocol reconstruction, multilingual document intelligence, hardware analysis, and independently verified system reconstruction. ",
       "created_at": "2026-11-14T01:13:26Z",
-      "updated_at": "2026-11-20T05:30:54Z",
+      "updated_at": "2026-11-22T10:32:31Z",
       "pushed_at": "2026-11-14T01:19:26Z",
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "HuffmanMainNode",
@@ -728,7 +749,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "mesh-archivist-engine",
@@ -745,12 +766,12 @@
       "full_name": "HuffmanMainNode/mesh-archivist-engine",
       "github_description": "Zero-dependency Python repository mesh archival and orchestration engine providing deterministic WAL-backed namespace discovery, DAG verification, runtime reconstruction, architectural gap planning, agent integration, and cryptographically verified one-way public ledger promotion.",
       "created_at": "2026-11-22T06:37:11Z",
-      "updated_at": "2026-11-22T07:37:13Z",
+      "updated_at": "2026-11-22T10:31:56Z",
       "pushed_at": "2026-11-22T07:30:32Z",
       "language": "Python",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Multi-Agent-Swarm-Guardrails",
@@ -772,7 +793,7 @@
       "language": "Python",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "OI-Swarm-Intelligence",
@@ -789,12 +810,12 @@
       "full_name": "HuffmanMainNode/OI-Swarm-Intelligence",
       "github_description": "Open Intelligence research and engineering for decentralized AI swarms, collective reasoning, adaptive expert composition, federated memory, and secure distributed intelligence.",
       "created_at": "2026-11-17T19:11:10Z",
-      "updated_at": "2026-11-22T07:37:33Z",
+      "updated_at": "2026-11-22T10:32:27Z",
       "pushed_at": "2026-11-17T19:46:54Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "OIF-AI-Security",
@@ -811,12 +832,12 @@
       "full_name": "HuffmanMainNode/OIF-AI-Security",
       "github_description": "Open AI security research and defensive engineering for models, agents, tools, data, and AI supply chains.",
       "created_at": "2026-11-17T19:26:12Z",
-      "updated_at": "2026-11-22T07:37:27Z",
+      "updated_at": "2026-11-22T10:32:18Z",
       "pushed_at": "2026-11-17T19:47:12Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "OIF-Cognitive-Systems",
@@ -833,12 +854,12 @@
       "full_name": "HuffmanMainNode/OIF-Cognitive-Systems",
       "github_description": "Open research and engineering for AI cognition, reasoning, memory, planning, learning, and metacognition.",
       "created_at": "2026-11-17T19:13:59Z",
-      "updated_at": "2026-11-22T07:37:29Z",
+      "updated_at": "2026-11-22T10:32:23Z",
       "pushed_at": "2026-11-17T19:47:04Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "OIF-Collective-Intelligence",
@@ -855,12 +876,12 @@
       "full_name": "HuffmanMainNode/OIF-Collective-Intelligence",
       "github_description": "Open research for federated AI, collective reasoning, expert composition, and distributed intelligence.",
       "created_at": "2026-11-17T19:17:22Z",
-      "updated_at": "2026-11-22T07:37:26Z",
+      "updated_at": "2026-11-22T10:32:16Z",
       "pushed_at": "2026-11-17T19:47:20Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "OIF-Conformance-Lab",
@@ -877,12 +898,12 @@
       "full_name": "HuffmanMainNode/OIF-Conformance-Lab",
       "github_description": "Open testing, benchmarking, protocol conformance, security evaluation, and reproducible Open Intelligence research.",
       "created_at": "2026-11-17T19:17:57Z",
-      "updated_at": "2026-11-22T07:37:24Z",
+      "updated_at": "2026-11-22T10:32:13Z",
       "pushed_at": "2026-11-17T19:58:42Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "OIF-Cyber-Intelligence",
@@ -899,12 +920,12 @@
       "full_name": "HuffmanMainNode/OIF-Cyber-Intelligence",
       "github_description": "Open defensive cyber intelligence research covering OSINT, threat intelligence, digital forensics, and evidence-based analysis.",
       "created_at": "2026-11-17T19:16:03Z",
-      "updated_at": "2026-11-22T07:37:28Z",
+      "updated_at": "2026-11-22T10:32:20Z",
       "pushed_at": "2026-11-17T19:47:08Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "OIF-Model-Intelligence",
@@ -921,12 +942,12 @@
       "full_name": "HuffmanMainNode/OIF-Model-Intelligence",
       "github_description": "Open model intelligence research covering AI architectures, open-weight models, local inference, optimization, and model routing.",
       "created_at": "2026-11-17T19:13:20Z",
-      "updated_at": "2026-11-22T07:37:31Z",
+      "updated_at": "2026-11-22T10:32:24Z",
       "pushed_at": "2026-11-17T19:47:01Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "OIF-Research-Observatory",
@@ -943,12 +964,12 @@
       "full_name": "HuffmanMainNode/OIF-Research-Observatory",
       "github_description": "An open research observatory for Open Intelligence, artificial intelligence, systems intelligence, cybersecurity, computer science, and advanced intelligence.",
       "created_at": "2026-11-17T19:11:53Z",
-      "updated_at": "2026-11-22T07:37:32Z",
+      "updated_at": "2026-11-22T10:32:25Z",
       "pushed_at": "2026-11-17T19:46:57Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "OIF-Systems-Intelligence",
@@ -965,12 +986,12 @@
       "full_name": "HuffmanMainNode/OIF-Systems-Intelligence",
       "github_description": "Open computer and systems intelligence research covering software, hardware, operating systems, networks, and distributed computing.",
       "created_at": "2026-11-17T19:16:46Z",
-      "updated_at": "2026-11-22T07:37:25Z",
+      "updated_at": "2026-11-22T10:32:14Z",
       "pushed_at": "2026-11-17T19:58:39Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Open-Intelligence-Exchange",
@@ -992,7 +1013,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Open-Intelligence-Fabric",
@@ -1009,12 +1030,12 @@
       "full_name": "HuffmanMainNode/Open-Intelligence-Fabric",
       "github_description": "The open standards, terminology, taxonomy, schemas, resource contracts, and interoperability foundation for Open Intelligence systems. Creation by MrCakes931, establishing OI, Open Intelligence Tokened Name. ",
       "created_at": "2026-11-17T19:10:35Z",
-      "updated_at": "2026-11-22T07:37:35Z",
+      "updated_at": "2026-11-22T10:32:29Z",
       "pushed_at": "2026-11-17T19:46:50Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "opencode-beta-MrCakes931-Testing",
@@ -1035,7 +1056,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z",
+      "last_verified_at": "2026-11-22T19:54:46Z",
       "upstream": "anomalyco/opencode-beta",
       "upstream_url": "https://github.com/anomalyco/opencode-beta"
     },
@@ -1058,7 +1079,7 @@
       "language": "TypeScript",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z",
+      "last_verified_at": "2026-11-22T19:54:46Z",
       "upstream": "anomalyco/opentui",
       "upstream_url": "https://github.com/anomalyco/opentui"
     },
@@ -1077,12 +1098,12 @@
       "full_name": "HuffmanMainNode/OpenWorkSpace",
       "github_description": "Secure, modular, local-first open-source digital workshop for connecting tools, software, AI, knowledge, and resources. Open Source Workspace Design by MrCakes931",
       "created_at": "2026-11-12T20:48:06Z",
-      "updated_at": "2026-11-14T04:00:01Z",
+      "updated_at": "2026-11-22T10:32:33Z",
       "pushed_at": "2026-11-13T02:45:00Z",
       "language": "Python",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "osiris-ForkByMrCakes931",
@@ -1103,7 +1124,7 @@
       "language": "TypeScript",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z",
+      "last_verified_at": "2026-11-22T19:54:46Z",
       "upstream": "simplifaisoul/osiris",
       "upstream_url": "https://github.com/simplifaisoul/osiris"
     },
@@ -1122,12 +1143,12 @@
       "full_name": "HuffmanMainNode/posix-containment-kit",
       "github_description": "Open-source POSIX host inspection and operator-authorized reversible containment toolkit with staged change plans, rollback snapshots, and recovery procedures.",
       "created_at": "2026-11-22T02:00:58Z",
-      "updated_at": "2026-11-22T07:37:19Z",
+      "updated_at": "2026-11-22T10:32:05Z",
       "pushed_at": "2026-11-22T06:04:13Z",
       "language": "Python",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Project-Helios-US-Archive",
@@ -1155,7 +1176,7 @@
         "public-portfolio",
         "showcase"
       ],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Project_Lazarus_OSINT",
@@ -1183,7 +1204,7 @@
         "public-portfolio",
         "showcase"
       ],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Protocol-Helios",
@@ -1211,7 +1232,7 @@
         "public-portfolio",
         "showcase"
       ],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "repo-mesh-blueprint",
@@ -1228,12 +1249,12 @@
       "full_name": "HuffmanMainNode/repo-mesh-blueprint",
       "github_description": "Federated repository mesh architectural standard defining recursive M × (1 + 1 + N) topology, crash-safe WAL checkpointing, runtime reconstruction, dependency contracts, failure ledgers, and controlled private-to-public projection.",
       "created_at": "2026-11-22T06:36:34Z",
-      "updated_at": "2026-11-22T07:37:14Z",
+      "updated_at": "2026-11-22T10:31:57Z",
       "pushed_at": "2026-11-22T07:29:47Z",
       "language": null,
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Shadowbroker-MrCakes931--TestingFork",
@@ -1254,7 +1275,7 @@
       "language": "Python",
       "license_spdx_id": "AGPL-3.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z",
+      "last_verified_at": "2026-11-22T19:54:46Z",
       "upstream": "BigBodyCobain/Shadowbroker",
       "upstream_url": "https://github.com/BigBodyCobain/Shadowbroker"
     },
@@ -1277,7 +1298,7 @@
       "language": "Groovy",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z",
+      "last_verified_at": "2026-11-22T19:54:46Z",
       "upstream": "NationalSecurityAgency/skills-service",
       "upstream_url": "https://github.com/NationalSecurityAgency/skills-service"
     },
@@ -1296,12 +1317,12 @@
       "full_name": "HuffmanMainNode/xdp-ingress-primitives",
       "github_description": "Open-source Linux XDP ingress filtering primitives with bounded packet parsing, verifier-aware implementation, concurrency-safe controls, and explicit kernel and driver compatibility.",
       "created_at": "2026-11-22T02:02:10Z",
-      "updated_at": "2026-11-22T07:37:17Z",
+      "updated_at": "2026-11-22T10:32:03Z",
       "pushed_at": "2026-11-22T06:04:15Z",
       "language": "Python",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Agent-Delegated-Budget-Enforcement-Fixtures",
@@ -1325,7 +1346,7 @@
       "language": "Python",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Agent-Delegation-Scope-Boundary-Fixtures",
@@ -1349,7 +1370,7 @@
       "language": "Python",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Agent-Evaluation-Oracle-Integrity-Fixtures",
@@ -1373,7 +1394,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Agent-Memory-Portability-Tests",
@@ -1397,7 +1418,7 @@
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Agent-Tool-Retry-Idempotency-Fixtures",
@@ -1421,7 +1442,7 @@
       "language": "Python",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Huffman-Ecosystem-Guide",
@@ -1445,7 +1466,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Huffman-Ecosystem-Root",
@@ -1469,7 +1490,7 @@
       "language": "Python",
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "HuffmanRepositories",
@@ -1492,7 +1513,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Open-Agent-Compatibility",
@@ -1516,7 +1537,7 @@
       "language": "Python",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Open-Agent-Compatibility-Fixtures",
@@ -1540,7 +1561,7 @@
       "language": "Python",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Open-Agent-Run-Metrics-Interop",
@@ -1564,7 +1585,7 @@
       "language": "Python",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Open-Source-AI-Independence",
@@ -1588,7 +1609,7 @@
       "language": null,
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "ELITE-Agent-Commons",
@@ -1608,11 +1629,32 @@
       "github_description": "An open, machine-readable discovery and coordination commons for AI agents and research tools.",
       "created_at": "2026-11-09T23:31:42Z",
       "updated_at": "2026-11-14T04:12:17Z",
-      "pushed_at": "2026-11-09T23:47:54Z",
+      "pushed_at": "2026-11-22T10:43:26Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
+    },
+    {
+      "name": "ELITE-Field-Kit",
+      "owner": "midnightlolz31337",
+      "account": "midnightlolz31337",
+      "full_name": "midnightlolz31337/ELITE-Field-Kit",
+      "url": "https://github.com/midnightlolz31337/ELITE-Field-Kit",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "description": "Local-first OSINT field kit for evidence-led research, ingestion and reproducible workflows.",
+      "github_description": "Local-first OSINT field kit for evidence-led research, ingestion and reproducible workflows.",
+      "classification": "original_project",
+      "evidence_level": "repository_metadata_verified",
+      "created_at": "2026-11-22T11:20:53Z",
+      "updated_at": "2026-11-22T11:20:55Z",
+      "pushed_at": "2026-11-22T11:29:25Z",
+      "language": null,
+      "license_spdx_id": null,
+      "topics": [],
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "ELITE-Ingestion-Core",
@@ -1632,11 +1674,11 @@
       "github_description": "A provenance-first data ingestion and validation engine with quarantine, data-quality controls, and poisoning defenses.",
       "created_at": "2026-11-09T23:34:49Z",
       "updated_at": "2026-11-14T04:12:14Z",
-      "pushed_at": "2026-11-17T19:15:34Z",
+      "pushed_at": "2026-11-22T18:50:49Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "ELITE-Protocol",
@@ -1656,11 +1698,32 @@
       "github_description": "Open protocols for evidence exchange, provenance, trust boundaries, and interoperable intelligence systems.",
       "created_at": "2026-11-09T23:37:41Z",
       "updated_at": "2026-11-14T04:12:16Z",
-      "pushed_at": "2026-11-17T19:15:14Z",
+      "pushed_at": "2026-11-22T18:54:58Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
+    },
+    {
+      "name": "ELITE-Workstation",
+      "owner": "midnightlolz31337",
+      "account": "midnightlolz31337",
+      "full_name": "midnightlolz31337/ELITE-Workstation",
+      "url": "https://github.com/midnightlolz31337/ELITE-Workstation",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "description": "Modular local-first OSINT workstation integrating evidence, ingestion, discovery and federation.",
+      "github_description": "Modular local-first OSINT workstation integrating evidence, ingestion, discovery and federation.",
+      "classification": "original_project",
+      "evidence_level": "repository_metadata_verified",
+      "created_at": "2026-11-22T11:21:40Z",
+      "updated_at": "2026-11-22T18:58:46Z",
+      "pushed_at": "2026-11-22T19:16:08Z",
+      "language": "Python",
+      "license_spdx_id": null,
+      "topics": [],
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Huffman-Network-Atlas",
@@ -1680,11 +1743,120 @@
       "github_description": "A federated, evidence-backed map of the Huffman Systems ecosystem, repositories, capabilities, dependencies, and provenance.",
       "created_at": "2026-11-09T23:29:00Z",
       "updated_at": "2026-11-14T04:12:15Z",
-      "pushed_at": "2026-11-10T03:34:30Z",
+      "pushed_at": "2026-11-22T11:14:47Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
+    },
+    {
+      "name": "Huffman-Public-Archive-Topology-Fork",
+      "owner": "midnightlolz31337",
+      "account": "midnightlolz31337",
+      "full_name": "midnightlolz31337/Huffman-Public-Archive-Topology-Fork",
+      "url": "https://github.com/midnightlolz31337/Huffman-Public-Archive-Topology-Fork",
+      "fork": true,
+      "archived": false,
+      "default_branch": "main",
+      "description": "Public topology and architectural overlay of original HuffmanMainNode repositories, with external forks identified and linked separately.",
+      "github_description": "Public topology and architectural overlay of original HuffmanMainNode repositories, with external forks identified and linked separately.",
+      "classification": "upstream_fork",
+      "evidence_level": "repository_metadata_verified",
+      "created_at": "2026-11-22T10:43:48Z",
+      "updated_at": "2026-11-22T10:43:48Z",
+      "pushed_at": "2026-11-22T09:14:17Z",
+      "language": null,
+      "license_spdx_id": null,
+      "topics": [],
+      "last_verified_at": "2026-11-22T19:54:46Z",
+      "upstream": "HuffmanMainNode/Huffman-Public-Archive-Topology",
+      "upstream_url": "https://github.com/HuffmanMainNode/Huffman-Public-Archive-Topology"
+    },
+    {
+      "name": "LoLz-Mesh-Atlas",
+      "owner": "midnightlolz31337",
+      "account": "midnightlolz31337",
+      "full_name": "midnightlolz31337/LoLz-Mesh-Atlas",
+      "url": "https://github.com/midnightlolz31337/LoLz-Mesh-Atlas",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "description": "Forkable public catalogue of LoLz projects, independent nodes, capabilities and compatibility.",
+      "github_description": "Forkable public catalogue of LoLz projects, independent nodes, capabilities and compatibility.",
+      "classification": "original_project",
+      "evidence_level": "repository_metadata_verified",
+      "created_at": "2026-11-22T11:19:39Z",
+      "updated_at": "2026-11-22T11:19:40Z",
+      "pushed_at": "2026-11-22T18:16:04Z",
+      "language": null,
+      "license_spdx_id": null,
+      "topics": [],
+      "last_verified_at": "2026-11-22T19:54:46Z"
+    },
+    {
+      "name": "LoLz-Mesh-Conformance",
+      "owner": "midnightlolz31337",
+      "account": "midnightlolz31337",
+      "full_name": "midnightlolz31337/LoLz-Mesh-Conformance",
+      "url": "https://github.com/midnightlolz31337/LoLz-Mesh-Conformance",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "description": "Open conformance tests for independent mesh nodes, protocols and federation.",
+      "github_description": "Open conformance tests for independent mesh nodes, protocols and federation.",
+      "classification": "original_project",
+      "evidence_level": "repository_metadata_verified",
+      "created_at": "2026-11-22T11:20:04Z",
+      "updated_at": "2026-11-22T11:20:06Z",
+      "pushed_at": "2026-11-22T18:12:23Z",
+      "language": null,
+      "license_spdx_id": null,
+      "topics": [],
+      "last_verified_at": "2026-11-22T19:54:46Z"
+    },
+    {
+      "name": "LoLz-Reverse-Engineering-Commons",
+      "owner": "midnightlolz31337",
+      "account": "midnightlolz31337",
+      "full_name": "midnightlolz31337/LoLz-Reverse-Engineering-Commons",
+      "url": "https://github.com/midnightlolz31337/LoLz-Reverse-Engineering-Commons",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "description": "Reproducible open technical research on software formats, protocols, APIs and interoperability.",
+      "github_description": "Reproducible open technical research on software formats, protocols, APIs and interoperability.",
+      "classification": "original_project",
+      "evidence_level": "repository_metadata_verified",
+      "created_at": "2026-11-22T11:21:15Z",
+      "updated_at": "2026-11-22T11:21:16Z",
+      "pushed_at": "2026-11-22T11:29:32Z",
+      "language": null,
+      "license_spdx_id": null,
+      "topics": [],
+      "last_verified_at": "2026-11-22T19:54:46Z"
+    },
+    {
+      "name": "mesh-archivist-engine-LoLz",
+      "owner": "midnightlolz31337",
+      "account": "midnightlolz31337",
+      "full_name": "midnightlolz31337/mesh-archivist-engine-LoLz",
+      "url": "https://github.com/midnightlolz31337/mesh-archivist-engine-LoLz",
+      "fork": true,
+      "archived": false,
+      "default_branch": "main",
+      "description": "Controlled Fork Zero-dependency Python repository mesh archival and orchestration engine providing deterministic WAL-backed namespace discovery, DAG verification, runtime reconstruction, architectural gap planning, agent integration, and cryptographically verified one-way public ledger promotion.",
+      "github_description": "Controlled Fork Zero-dependency Python repository mesh archival and orchestration engine providing deterministic WAL-backed namespace discovery, DAG verification, runtime reconstruction, architectural gap planning, agent integration, and cryptographically verified one-way public ledger promotion.",
+      "classification": "upstream_fork",
+      "evidence_level": "repository_metadata_verified",
+      "created_at": "2026-11-22T11:08:04Z",
+      "updated_at": "2026-11-22T11:08:05Z",
+      "pushed_at": "2026-11-22T07:30:32Z",
+      "language": null,
+      "license_spdx_id": "Apache-2.0",
+      "topics": [],
+      "last_verified_at": "2026-11-22T19:54:46Z",
+      "upstream": "HuffmanMainNode/mesh-archivist-engine",
+      "upstream_url": "https://github.com/HuffmanMainNode/mesh-archivist-engine"
     },
     {
       "name": "midnightlolz31337",
@@ -1703,11 +1875,55 @@
       "github_description": "Official Face for Midnightlolz31337 ",
       "created_at": "2026-11-09T22:07:26Z",
       "updated_at": "2026-11-14T04:12:19Z",
-      "pushed_at": "2026-11-09T22:19:22Z",
+      "pushed_at": "2026-11-22T11:14:43Z",
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
+    },
+    {
+      "name": "NoGatekeepers-Index",
+      "owner": "midnightlolz31337",
+      "account": "midnightlolz31337",
+      "full_name": "midnightlolz31337/NoGatekeepers-Index",
+      "url": "https://github.com/midnightlolz31337/NoGatekeepers-Index",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "description": "Evidence-backed index of platform lock-in, data portability, interoperability and independent alternatives.",
+      "github_description": "Evidence-backed index of platform lock-in, data portability, interoperability and independent alternatives.",
+      "classification": "original_project",
+      "evidence_level": "repository_metadata_verified",
+      "created_at": "2026-11-22T11:20:29Z",
+      "updated_at": "2026-11-22T11:20:30Z",
+      "pushed_at": "2026-11-22T11:28:02Z",
+      "language": null,
+      "license_spdx_id": null,
+      "topics": [],
+      "last_verified_at": "2026-11-22T19:54:46Z"
+    },
+    {
+      "name": "repo-mesh-blueprint-LoLz",
+      "owner": "midnightlolz31337",
+      "account": "midnightlolz31337",
+      "full_name": "midnightlolz31337/repo-mesh-blueprint-LoLz",
+      "url": "https://github.com/midnightlolz31337/repo-mesh-blueprint-LoLz",
+      "fork": true,
+      "archived": false,
+      "default_branch": "main",
+      "description": "Controlled Fork. Federated repository mesh architectural standard defining recursive M × (1 + 1 + N) topology, crash-safe WAL checkpointing, runtime reconstruction, dependency contracts, failure ledgers, and controlled private-to-public projection.",
+      "github_description": "Controlled Fork. Federated repository mesh architectural standard defining recursive M × (1 + 1 + N) topology, crash-safe WAL checkpointing, runtime reconstruction, dependency contracts, failure ledgers, and controlled private-to-public projection.",
+      "classification": "upstream_fork",
+      "evidence_level": "repository_metadata_verified",
+      "created_at": "2026-11-22T11:06:13Z",
+      "updated_at": "2026-11-22T11:06:13Z",
+      "pushed_at": "2026-11-22T07:29:47Z",
+      "language": null,
+      "license_spdx_id": "Apache-2.0",
+      "topics": [],
+      "last_verified_at": "2026-11-22T19:54:46Z",
+      "upstream": "HuffmanMainNode/repo-mesh-blueprint",
+      "upstream_url": "https://github.com/HuffmanMainNode/repo-mesh-blueprint"
     },
     {
       "name": "adaptive-swarm-compression",
@@ -1736,11 +1952,11 @@
       "github_description": "Open-source framework for adaptive, collective compression and intelligent information representation across distributed AI agents and swarms, combining compression algorithms, structural folding, shared representations and selective reconstruction.",
       "created_at": "2026-11-05T10:59:41Z",
       "updated_at": "2026-11-15T01:20:01Z",
-      "pushed_at": "2026-11-05T11:36:05Z",
+      "pushed_at": "2026-11-22T18:18:57Z",
       "language": "Python",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "agent-ai-discovery",
@@ -1766,11 +1982,11 @@
       "github_description": null,
       "created_at": "2026-11-02T04:52:38Z",
       "updated_at": "2026-11-15T01:20:24Z",
-      "pushed_at": "2026-11-05T09:39:44Z",
+      "pushed_at": "2026-11-22T18:55:13Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "agent-audit-provenance",
@@ -1795,11 +2011,11 @@
       "github_description": null,
       "created_at": "2026-11-02T07:10:51Z",
       "updated_at": "2026-11-15T01:20:27Z",
-      "pushed_at": "2026-11-05T09:39:29Z",
+      "pushed_at": "2026-11-22T18:54:34Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "agent-capability-registry",
@@ -1824,11 +2040,11 @@
       "github_description": "Catalog and validation of agent capabilities",
       "created_at": "2026-11-02T08:24:52Z",
       "updated_at": "2026-11-15T01:20:07Z",
-      "pushed_at": "2026-11-05T09:42:06Z",
+      "pushed_at": "2026-11-22T18:55:03Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "agent-compliance-governance",
@@ -1856,11 +2072,11 @@
       "github_description": "A governance framework for tracking legal applicability, AI and privacy requirements, compliance controls, regulatory changes, and supporting evidence across AI agent systems. Includes machine-readable registries and validation tools; does not provide legal advice or certify compliance. Created by MrCakes931",
       "created_at": "2026-11-02T23:55:07Z",
       "updated_at": "2026-11-15T01:20:33Z",
-      "pushed_at": "2026-11-05T09:02:35Z",
+      "pushed_at": "2026-11-22T18:54:56Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "agent-conformance-lab",
@@ -1894,11 +2110,11 @@
       "github_description": "A deterministic validation toolkit for AI agent interoperability, testing capability metadata, interface contracts, configuration fixtures, and conformance reports. Provides reusable schemas and validation workflows to improve consistency, compatibility, and trust across agent ecosystems.",
       "created_at": "2026-11-03T00:30:37Z",
       "updated_at": "2026-11-15T01:20:31Z",
-      "pushed_at": "2026-11-05T09:03:23Z",
+      "pushed_at": "2026-11-22T18:54:42Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "agent-discovery-network",
@@ -1924,11 +2140,11 @@
       "github_description": "Discovery of agents, resources, services, and capabilities.",
       "created_at": "2026-11-02T08:05:50Z",
       "updated_at": "2026-11-15T01:20:28Z",
-      "pushed_at": "2026-11-05T09:39:23Z",
+      "pushed_at": "2026-11-22T18:18:18Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "agent-ecosystem-integration",
@@ -1956,11 +2172,11 @@
       "github_description": null,
       "created_at": "2026-11-02T04:53:24Z",
       "updated_at": "2026-11-15T01:20:25Z",
-      "pushed_at": "2026-11-05T09:39:39Z",
+      "pushed_at": "2026-11-22T18:55:10Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "agent-emergency-control",
@@ -1987,11 +2203,11 @@
       "github_description": "A security-focused emergency control system for AI agent ecosystems. Defines authenticated STOP/RESUME authority, fail-closed state management, monotonic stop epochs, revocation, audit provenance, and integration contracts for coordinated emergency shutdown across distributed agents and services.",
       "created_at": "2026-11-02T23:38:40Z",
       "updated_at": "2026-11-15T01:20:34Z",
-      "pushed_at": "2026-11-05T09:01:49Z",
+      "pushed_at": "2026-11-22T18:18:49Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "agent-federation-network",
@@ -2021,11 +2237,11 @@
       "github_description": "Federated peer discovery, trust boundaries, and network membership contracts for distributed AI agents. Public Experiment by MrCakes931.",
       "created_at": "2026-11-05T08:09:33Z",
       "updated_at": "2026-11-15T01:20:30Z",
-      "pushed_at": "2026-11-05T09:04:33Z",
+      "pushed_at": "2026-11-22T18:54:36Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "agent-foundation-spec",
@@ -2048,11 +2264,11 @@
       "github_description": null,
       "created_at": "2026-11-02T04:54:03Z",
       "updated_at": "2026-11-15T01:20:26Z",
-      "pushed_at": "2026-11-05T09:39:33Z",
+      "pushed_at": "2026-11-22T18:17:56Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "agent-identity-trust",
@@ -2076,11 +2292,11 @@
       "github_description": null,
       "created_at": "2026-11-02T04:57:55Z",
       "updated_at": "2026-11-15T01:20:23Z",
-      "pushed_at": "2026-11-05T09:40:12Z",
+      "pushed_at": "2026-11-22T18:51:53Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "agent-intelligence-ecosystem",
@@ -2101,11 +2317,11 @@
       "github_description": null,
       "created_at": "2026-11-02T04:29:25Z",
       "updated_at": "2026-11-15T01:20:00Z",
-      "pushed_at": "2026-11-05T11:38:34Z",
+      "pushed_at": "2026-11-22T19:04:09Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "agent-policy-engine",
@@ -2128,11 +2344,11 @@
       "github_description": "Default-deny authorization policies and deterministic decision evaluation for agent identities, actions, resources, and scopes. ai-agents, policy-engine, authorization, access-control, least-privilege, security",
       "created_at": "2026-11-02T06:28:23Z",
       "updated_at": "2026-11-15T01:20:21Z",
-      "pushed_at": "2026-11-05T09:40:20Z",
+      "pushed_at": "2026-11-22T18:49:27Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "agent-resource-manifest",
@@ -2157,11 +2373,11 @@
       "github_description": null,
       "created_at": "2026-11-02T04:54:27Z",
       "updated_at": "2026-11-15T01:20:20Z",
-      "pushed_at": "2026-11-05T09:40:25Z",
+      "pushed_at": "2026-11-22T18:51:58Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "agent-sandbox-security",
@@ -2189,11 +2405,11 @@
       "github_description": null,
       "created_at": "2026-11-02T11:12:19Z",
       "updated_at": "2026-11-15T01:20:19Z",
-      "pushed_at": "2026-11-05T09:40:29Z",
+      "pushed_at": "2026-11-22T18:54:31Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "agent-schema-registry",
@@ -2216,11 +2432,11 @@
       "github_description": null,
       "created_at": "2026-11-02T04:54:53Z",
       "updated_at": "2026-11-15T01:20:18Z",
-      "pushed_at": "2026-11-05T09:40:34Z",
+      "pushed_at": "2026-11-22T18:18:00Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "agent-secure-supply-chain",
@@ -2245,11 +2461,11 @@
       "github_description": null,
       "created_at": "2026-11-02T06:09:36Z",
       "updated_at": "2026-11-15T01:20:16Z",
-      "pushed_at": "2026-11-05T09:41:06Z",
+      "pushed_at": "2026-11-22T18:55:06Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "agent-skill-library",
@@ -2275,11 +2491,11 @@
       "github_description": null,
       "created_at": "2026-11-02T10:58:05Z",
       "updated_at": "2026-11-15T01:20:15Z",
-      "pushed_at": "2026-11-05T09:41:14Z",
+      "pushed_at": "2026-11-22T18:54:39Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "agent-tool-adapters",
@@ -2305,11 +2521,11 @@
       "github_description": null,
       "created_at": "2026-11-02T10:41:46Z",
       "updated_at": "2026-11-15T01:20:14Z",
-      "pushed_at": "2026-11-05T09:41:19Z",
+      "pushed_at": "2026-11-22T18:54:45Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "agent-transport-gateway",
@@ -2335,11 +2551,11 @@
       "github_description": "Experimental transport-neutral request guard and integration boundary for AIX over HTTP, MCP and A2A",
       "created_at": "2026-11-02T07:54:11Z",
       "updated_at": "2026-11-15T01:20:13Z",
-      "pushed_at": "2026-11-05T09:41:24Z",
+      "pushed_at": "2026-11-22T18:18:16Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "aix-codecs",
@@ -2363,11 +2579,11 @@
       "github_description": "RFC 8785 canonical JSON serialization and strict decoding for AIX messages",
       "created_at": "2026-11-02T07:43:08Z",
       "updated_at": "2026-11-15T01:20:11Z",
-      "pushed_at": "2026-11-05T09:41:28Z",
+      "pushed_at": "2026-11-22T18:18:14Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "aix-core",
@@ -2394,11 +2610,11 @@
       "github_description": null,
       "created_at": "2026-11-02T07:12:21Z",
       "updated_at": "2026-11-15T01:20:09Z",
-      "pushed_at": "2026-11-05T09:42:02Z",
+      "pushed_at": "2026-11-22T18:23:07Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "intelligence-knowledge-graph",
@@ -2422,11 +2638,11 @@
       "github_description": null,
       "created_at": "2026-11-02T10:08:17Z",
       "updated_at": "2026-11-15T01:20:29Z",
-      "pushed_at": "2026-11-05T09:04:46Z",
+      "pushed_at": "2026-11-22T18:54:47Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "mrcakes931-ecosystem",
@@ -2449,11 +2665,11 @@
       "github_description": null,
       "created_at": "2026-11-02T04:53:01Z",
       "updated_at": "2026-11-15T01:20:10Z",
-      "pushed_at": "2026-11-05T09:41:55Z",
+      "pushed_at": "2026-11-22T18:17:52Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "osint-collection-framework",
@@ -2482,11 +2698,11 @@
       "github_description": "Authorized public-information collection through tools and adapters experimental design. ",
       "created_at": "2026-11-05T07:06:10Z",
       "updated_at": "2026-11-10T03:06:57Z",
-      "pushed_at": "2026-11-05T09:00:29Z",
+      "pushed_at": "2026-11-22T18:54:58Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "osint-entity-resolution",
@@ -2516,11 +2732,11 @@
       "github_description": "Entity correlation, relationship modeling, and uncertainty reporting. Public OSINT Experiment by MrCakes931.",
       "created_at": "2026-11-05T07:53:19Z",
       "updated_at": "2026-11-10T03:06:56Z",
-      "pushed_at": "2026-11-05T08:58:23Z",
+      "pushed_at": "2026-11-22T18:54:29Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "osint-evidence-engine",
@@ -2547,11 +2763,11 @@
       "github_description": "Evidence preservation, provenance, hashes, timestamps, and reproducibility. Public Experiment by MrCakes931. ",
       "created_at": "2026-11-05T07:36:39Z",
       "updated_at": "2026-11-15T01:20:35Z",
-      "pushed_at": "2026-11-05T09:01:01Z",
+      "pushed_at": "2026-11-22T18:55:08Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "osint-source-registry",
@@ -2576,11 +2792,11 @@
       "github_description": "Review-gated catalog of public information sources, datasets, APIs, terms, licensing, and access constraints",
       "created_at": "2026-11-02T09:54:37Z",
       "updated_at": "2026-11-15T01:20:03Z",
-      "pushed_at": "2026-11-05T09:42:50Z",
+      "pushed_at": "2026-11-22T18:55:00Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "PCakes303",
@@ -2603,7 +2819,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "swarm-coordination",
@@ -2629,11 +2845,11 @@
       "github_description": "Task assignment, delegation, acknowledgement, bounded retry, and recovery for hybrid agent swarms",
       "created_at": "2026-11-02T09:00:39Z",
       "updated_at": "2026-11-15T01:20:06Z",
-      "pushed_at": "2026-11-05T09:42:36Z",
+      "pushed_at": "2026-11-22T18:18:27Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "swarm-runtime",
@@ -2659,11 +2875,11 @@
       "github_description": "Execution infrastructure for distributed agents and nodes",
       "created_at": "2026-11-02T08:40:24Z",
       "updated_at": "2026-11-15T01:20:05Z",
-      "pushed_at": "2026-11-05T09:42:41Z",
+      "pushed_at": "2026-11-22T18:18:25Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "swarm-state-mesh",
@@ -2688,11 +2904,11 @@
       "github_description": "Versioned task state, context references, synchronization, and shared knowledge for hybrid agent swarms",
       "created_at": "2026-11-02T09:16:02Z",
       "updated_at": "2026-11-15T01:20:04Z",
-      "pushed_at": "2026-11-05T09:42:45Z",
+      "pushed_at": "2026-11-22T18:54:53Z",
       "language": "Python",
       "license_spdx_id": "NOASSERTION",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Cui-Bono-Audit-Tool-TestFork",
@@ -2716,7 +2932,7 @@
       "language": "JavaScript",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z",
+      "last_verified_at": "2026-11-22T19:54:46Z",
       "upstream": "HuffmanMainNode/Cui-Bono-Audit-Tool",
       "upstream_url": "https://github.com/HuffmanMainNode/Cui-Bono-Audit-Tool"
     },
@@ -2742,7 +2958,7 @@
       "language": null,
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z",
+      "last_verified_at": "2026-11-22T19:54:46Z",
       "upstream": "HuffmanMainNode/Protocol-Helios",
       "upstream_url": "https://github.com/HuffmanMainNode/Protocol-Helios"
     },
@@ -2767,7 +2983,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "uss-sdk-wrapper-TESTFORK",
@@ -2791,7 +3007,7 @@
       "language": null,
       "license_spdx_id": null,
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "Curated-Modern-OSINT-Tools-ForkBy_Ryzean84",
@@ -2815,9 +3031,30 @@
       "language": "Python",
       "license_spdx_id": "MIT",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z",
+      "last_verified_at": "2026-11-22T19:54:46Z",
       "upstream": "HuffmanMainNode/Curated-Modern-OSINT-Tools",
       "upstream_url": "https://github.com/HuffmanMainNode/Curated-Modern-OSINT-Tools"
+    },
+    {
+      "name": "Global-Rights-and-Law-Atlas",
+      "owner": "Ryzean84",
+      "account": "Ryzean84",
+      "full_name": "Ryzean84/Global-Rights-and-Law-Atlas",
+      "url": "https://github.com/Ryzean84/Global-Rights-and-Law-Atlas",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "description": "An international, multilingual, source-linked collection of founding documents, constitutions, laws, rights and protections.",
+      "github_description": "An international, multilingual, source-linked collection of founding documents, constitutions, laws, rights and protections.",
+      "classification": "original_project",
+      "evidence_level": "repository_metadata_verified",
+      "created_at": "2026-11-22T09:31:58Z",
+      "updated_at": "2026-11-22T09:32:00Z",
+      "pushed_at": "2026-11-22T09:50:44Z",
+      "language": null,
+      "license_spdx_id": null,
+      "topics": [],
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "mesh-archivist-engine-ControlledFork-by-MrCakes931-",
@@ -2838,7 +3075,7 @@
       "language": null,
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z",
+      "last_verified_at": "2026-11-22T19:54:46Z",
       "upstream": "HuffmanMainNode/mesh-archivist-engine",
       "upstream_url": "https://github.com/HuffmanMainNode/mesh-archivist-engine"
     },
@@ -2856,12 +3093,12 @@
       "classification": "original_project",
       "evidence_level": "repository_metadata_verified",
       "created_at": "2026-11-22T09:09:58Z",
-      "updated_at": "2026-11-22T09:10:00Z",
-      "pushed_at": "2026-11-22T09:10:00Z",
-      "language": null,
+      "updated_at": "2026-11-22T09:54:02Z",
+      "pushed_at": "2026-11-22T18:52:33Z",
+      "language": "Python",
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     },
     {
       "name": "repo-mesh-blueprint-ControlledFork-by-MrCakes931",
@@ -2882,7 +3119,7 @@
       "language": null,
       "license_spdx_id": "Apache-2.0",
       "topics": [],
-      "last_verified_at": "2026-11-22T09:14:07Z",
+      "last_verified_at": "2026-11-22T19:54:46Z",
       "upstream": "HuffmanMainNode/repo-mesh-blueprint",
       "upstream_url": "https://github.com/HuffmanMainNode/repo-mesh-blueprint"
     },
@@ -2914,7 +3151,7 @@
         "systems-architecture",
         "threat-telemetry"
       ],
-      "last_verified_at": "2026-11-22T09:14:07Z"
+      "last_verified_at": "2026-11-22T19:54:46Z"
     }
   ]
 }
