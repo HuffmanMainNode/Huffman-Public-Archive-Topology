@@ -1,9 +1,9 @@
 {
   "schema_version": "1.0.0",
   "snapshot_date": "2026-11-22",
-  "scope": "Public original repositories returned by user:HuffmanMainNode is:public; topology repository excluded because created after discovery.",
-  "source_search_count": 50,
-  "original_repository_count": 36,
+  "scope": "All current public non-fork repositories under HuffmanMainNode, including profile and topology index; private repositories and alternate accounts excluded.",
+  "source_search_count": 51,
+  "original_repository_count": 37,
   "fork_count": 14,
   "topology_repository": "https://github.com/HuffmanMainNode/Huffman-Public-Archive-Topology",
   "repositories": [
@@ -366,6 +366,16 @@
       "default_branch": "main",
       "family": "OIF foundation",
       "description": "Open standards, terminology, taxonomy, schemas, resource contracts, and interoperability foundation."
+    },
+    {
+      "name": "Huffman-Public-Archive-Topology",
+      "owner": "HuffmanMainNode",
+      "url": "https://github.com/HuffmanMainNode/Huffman-Public-Archive-Topology",
+      "fork": false,
+      "archived": false,
+      "default_branch": "main",
+      "family": "Archive engineering",
+      "description": "Public topology and architectural overlay of original HuffmanMainNode repositories, with external forks identified and linked separately."
     }
   ]
 }

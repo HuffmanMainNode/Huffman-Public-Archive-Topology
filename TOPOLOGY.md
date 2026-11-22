@@ -1,5 +1,7 @@
 # Public Repository Topology
 
+For the full narrative describing all portfolio domains, integration paths, cross-cutting principles, and private/public boundaries, see [SYSTEM-OVERVIEW.md](SYSTEM-OVERVIEW.md).
+
 ## Top-level map
 
 The account's public work is best read as several connected project families, not as one monolithic application. Solid arrows below indicate relationships explicitly documented in public repository material. Dotted arrows represent conceptual alignment only.
@@ -7,10 +9,13 @@ The account's public work is best read as several connected project families, no
 ```mermaid
 flowchart TD
   ARCH["Archive engineering"]
+  PUBLIC["Huffman-Public-Archive-Topology"]
   BLUE["repo-mesh-blueprint"]
   ENGINE["mesh-archivist-engine"]
   ARCH --> BLUE
   ARCH --> ENGINE
+  PUBLIC -. "public inventory and projection" .-> BLUE
+  PUBLIC -. "public inventory and projection" .-> ENGINE
   BLUE -. "architecture standard" .-> ENGINE
 
   HDI["Huffman-Defensive-Intelligence"]

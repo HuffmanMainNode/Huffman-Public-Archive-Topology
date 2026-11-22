@@ -1,5 +1,7 @@
 # Architecture Reading Guide
 
+Read [SYSTEM-OVERVIEW.md](SYSTEM-OVERVIEW.md) first for the complete portfolio-level system description.
+
 ## Portfolio layers
 
 The public portfolio can be navigated through four broad layers:
