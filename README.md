@@ -25,6 +25,7 @@ This is a refreshed completeness snapshot from 2026-11-22. GitHub search returne
 
 ## Start here
 
+- [Release notes and acceptance checklist](RELEASE-NOTES.md): current public archive release candidate and remaining gates
 - [Federated public catalog](FEDERATED-CATALOG.md): direct links to every repository across all six accounts
 - [Agent entrypoint](AGENT-ENTRYPOINT.md): machine-consumer discovery and interpretation rules
 - [System overview](SYSTEM-OVERVIEW.md): how the entire public portfolio fits together
