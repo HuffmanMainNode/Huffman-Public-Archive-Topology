@@ -151,7 +151,7 @@ lines.extend(["## Classification and evidence","",
 "The scheduled GitHub Actions workflow refreshes public metadata daily and supports manual execution. A successful metadata refresh is not a source-code, security, or production-readiness audit.",""])
 catalog=ROOT/"FEDERATED-CATALOG.md"
 catalog.write_text("\n".join(lines),encoding="utf-8")
-rows=[line for line in lines if line.startswith("| [") and "](https://github.com/" in line]
+rows=[line for line in lines if line.startswith("| [") and any("| "+label+" |" in line for label in ("original project","upstream fork","controlled test copy","profile","portfolio index"))]
 if len(rows)!=len(records): raise RuntimeError(f"Catalogue row count {len(rows)} != ledger count {len(records)}")
 if sum(a["public_repositories"] for a in account_rows)!=len(records): raise RuntimeError("Account totals do not reconcile.")
 if len(account_rows)!=6 or not records: raise RuntimeError("Unexpected account/repository count.")
