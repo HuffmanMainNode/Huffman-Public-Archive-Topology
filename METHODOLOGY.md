@@ -2,13 +2,13 @@
 
 ## Federation extension
 
-The account-level snapshot below describes HuffmanMainNode only. A separate snapshot dated 2026-11-22 covers five user-supplied alternate accounts. It uses account-scoped repository search followed by individual repository metadata checks. See [MULTI-ACCOUNT-TOPOLOGY.md](MULTI-ACCOUNT-TOPOLOGY.md) and [data/accounts.json](data/accounts.json). Private repositories remain excluded. Do not combine the primary account's fork count with alternate-account counts without using the unified federation ledger.
+The federation snapshot covers HuffmanMainNode and five user-supplied alternate accounts. The scheduled refresh queries all six public account inventories with pagination and updates the unified ledger. See [FEDERATED-CATALOG.md](FEDERATED-CATALOG.md), [MULTI-ACCOUNT-TOPOLOGY.md](MULTI-ACCOUNT-TOPOLOGY.md), and [data/accounts.json](data/accounts.json). Private repositories remain excluded.
 
 ## Publication Rules
 
 ## Scope
 
-This refreshed snapshot covers public repositories returned by GitHub repository search for `user:HuffmanMainNode is:public` on 2026-11-22. The query returned 51 repositories on page 1 and no results on pages 2 or 3. All 51 were checked against their individual repository metadata. The reconciliation is 37 non-forks and 14 forks. The 37 non-forks include the account profile repository and this topology repository; the remaining 35 are source-project repositories that predate this topology index. Private repositories and alternate accounts are excluded.
+The original account-only snapshot below is historical context. The current federated ledger is authoritative for the six configured public accounts. The refresh script uses the GitHub user-repositories endpoint with pagination and reconciles each returned repository's metadata. Private repositories are excluded.
 
 ## Ownership classification
 
@@ -25,7 +25,7 @@ A fork may contain original changes, but this catalog does not reclassify it as 
 3. Public README and repository documentation: intended purpose, declared features, constraints, integration statements.
 4. Source-level review and tests: required before stronger claims about actual behavior, correctness, or production readiness.
 
-This pass is an inventory and architecture map, not a full code/security audit of all 35 pre-existing source-project repositories.
+This pass is an inventory and architecture map, not a full code/security audit of every source-project repository across the six accounts.
 
 ## Relationship classification
 
@@ -50,7 +50,7 @@ Branch protection values were returned as false for branches in the first inspec
 - GitHub search is a snapshot and can change as repositories are created, made private, renamed, or deleted.
 - One repository, Halloween2-OSINT-2026, was reported empty at snapshot time and has no branch list.
 - Some repositories have minimal descriptions or documentation; their status is intentionally conservative.
-- No private account, alternate account, or private archive data is used here.
+- Only the six explicitly configured public account inventories are queried; private repositories and private archive data are excluded.
 - This pass does not execute project code or reproduce every project's CI.
 
 ## Refresh procedure
