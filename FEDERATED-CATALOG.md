@@ -4,12 +4,12 @@ Human-readable directory for the six-account public collection. Repository names
 
 ## Collection at a glance
 
-- Snapshot: 2026-11-22
-- Last verified: 2026-11-22T19:54:46Z
+- Snapshot: 2026-11-24
+- Last verified: 2026-11-24T00:09:39Z
 - Accounts: 6
-- Public repositories: 121
+- Public repositories: 125
 - Original project repositories (including portfolio index): 92
-- GitHub-confirmed upstream forks: 22
+- GitHub-confirmed upstream forks: 26
 - Controlled test copies: 1
 - Profile repositories: 6
 
@@ -17,12 +17,12 @@ Human-readable directory for the six-account public collection. Repository names
 
 | Account | Public repositories | Collection role |
 |---|---:|---|
-| [HuffmanMainNode](https://github.com/HuffmanMainNode) | 52 | Primary public portfolio and archive index |
-| [PCakes303](https://github.com/PCakes303) | 33 | MrCakes931 Agent Intelligence Ecosystem; canonical control plane, agent foundations, protocols, swarm, OSINT/evidence, adoption, and governance |
+| [HuffmanMainNode](https://github.com/HuffmanMainNode) | 53 | Primary public portfolio and archive index |
+| [PCakes303](https://github.com/PCakes303) | 34 | MrCakes931 Agent Intelligence Ecosystem; canonical control plane, agent foundations, protocols, swarm, OSINT/evidence, adoption, and governance |
 | [HuffmanRepositories](https://github.com/HuffmanRepositories) | 12 | Public ecosystem directory, interoperability research, mission, and synthetic agent reliability fixtures |
 | [midnightlolz31337](https://github.com/midnightlolz31337) | 14 | ELITE evidence/provenance protocol, ingestion, discovery commons, and federated ecosystem atlas |
-| [roberthuffman](https://github.com/roberthuffman) | 4 | Controlled testing copies and profile; no distinct original project counted in this snapshot |
-| [Ryzean84](https://github.com/Ryzean84) | 6 | Research workspace profile and a fork of the main-account OSINT tools directory |
+| [roberthuffman](https://github.com/roberthuffman) | 5 | Controlled testing copies and profile; no distinct original project counted in this snapshot |
+| [Ryzean84](https://github.com/Ryzean84) | 7 | Research workspace profile and a fork of the main-account OSINT tools directory |
 
 ## Repository directory
 
@@ -83,9 +83,10 @@ Primary public portfolio and archive index
 | [repo-mesh-blueprint](https://github.com/HuffmanMainNode/repo-mesh-blueprint) | original project | Archive engineering | Federated repository mesh architectural standard. | Not applicable / not recorded |
 | [Shadowbroker-MrCakes931--TestingFork](https://github.com/HuffmanMainNode/Shadowbroker-MrCakes931--TestingFork) | upstream fork | Unclassified | Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now. | [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) |
 | [skills-service-ForkByMrCakes931-ZEROTRUST](https://github.com/HuffmanMainNode/skills-service-ForkByMrCakes931-ZEROTRUST) | upstream fork | Unclassified | SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications. | [NationalSecurityAgency/skills-service](https://github.com/NationalSecurityAgency/skills-service) |
+| [tushka-swarm-collective-ForkByHuffmanMainNode](https://github.com/HuffmanMainNode/tushka-swarm-collective-ForkByHuffmanMainNode) | upstream fork | Unclassified | Open-source decentralized AI swarm collective- Public experiment | [TushkaLoLz31337/tushka-swarm-collective](https://github.com/TushkaLoLz31337/tushka-swarm-collective) |
 | [xdp-ingress-primitives](https://github.com/HuffmanMainNode/xdp-ingress-primitives) | original project | Defensive security | Linux XDP ingress filtering primitives. | Not applicable / not recorded |
 
-<sub>52 repository records in this account section.</sub>
+<sub>53 repository records in this account section.</sub>
 
 ### [PCakes303](https://github.com/PCakes303)
 
@@ -116,6 +117,7 @@ MrCakes931 Agent Intelligence Ecosystem; canonical control plane, agent foundati
 | [agent-transport-gateway](https://github.com/PCakes303/agent-transport-gateway) | original project | protocols | Experimental transport-neutral request guard and integration boundary for AIX over HTTP, MCP and A2A | Not applicable / not recorded |
 | [aix-codecs](https://github.com/PCakes303/aix-codecs) | original project | protocols | RFC 8785 canonical JSON serialization and strict decoding for AIX messages | Not applicable / not recorded |
 | [aix-core](https://github.com/PCakes303/aix-core) | original project | protocols | No description supplied; consult the repository README. | Not applicable / not recorded |
+| [Huffman-Public-Archive-Topology](https://github.com/PCakes303/Huffman-Public-Archive-Topology) | upstream fork | Unclassified | Controlled Fork - Public topology and architectural overlay of original HuffmanMainNode repositories, with external forks identified and linked separately. | [HuffmanMainNode/Huffman-Public-Archive-Topology](https://github.com/HuffmanMainNode/Huffman-Public-Archive-Topology) |
 | [intelligence-knowledge-graph](https://github.com/PCakes303/intelligence-knowledge-graph) | original project | intelligence | No description supplied; consult the repository README. | Not applicable / not recorded |
 | [mrcakes931-ecosystem](https://github.com/PCakes303/mrcakes931-ecosystem) | original project | ecosystem-facing | No description supplied; consult the repository README. | Not applicable / not recorded |
 | [osint-collection-framework](https://github.com/PCakes303/osint-collection-framework) | original project | intelligence | Authorized public-information collection through tools and adapters experimental design. | Not applicable / not recorded |
@@ -127,7 +129,7 @@ MrCakes931 Agent Intelligence Ecosystem; canonical control plane, agent foundati
 | [swarm-runtime](https://github.com/PCakes303/swarm-runtime) | original project | swarm | Execution infrastructure for distributed agents and nodes | Not applicable / not recorded |
 | [swarm-state-mesh](https://github.com/PCakes303/swarm-state-mesh) | original project | swarm | Versioned task state, context references, synchronization, and shared knowledge for hybrid agent swarms | Not applicable / not recorded |
 
-<sub>33 repository records in this account section.</sub>
+<sub>34 repository records in this account section.</sub>
 
 ### [HuffmanRepositories](https://github.com/HuffmanRepositories)
 
@@ -182,9 +184,10 @@ Controlled testing copies and profile; no distinct original project counted in t
 | [Cui-Bono-Audit-Tool-TestFork](https://github.com/roberthuffman/Cui-Bono-Audit-Tool-TestFork) | upstream fork | Unclassified | Official Security Audit Tool by MrCakes931 - Ruthless Exploit Neutralization- test fork | [HuffmanMainNode/Cui-Bono-Audit-Tool](https://github.com/HuffmanMainNode/Cui-Bono-Audit-Tool) |
 | [Protocol-Helios-ControlledTestFork](https://github.com/roberthuffman/Protocol-Helios-ControlledTestFork) | upstream fork | Unclassified | A digital library of government repositories for Zero Trust Auditing and AI/Cybersecurity research. Controlled test fork. | [HuffmanMainNode/Protocol-Helios](https://github.com/HuffmanMainNode/Protocol-Helios) |
 | [roberthuffman](https://github.com/roberthuffman/roberthuffman) | profile | Unclassified | Official Architect Profile V1 | Not applicable / not recorded |
+| [tushka-swarm-collective-ForkByMrCakes931](https://github.com/roberthuffman/tushka-swarm-collective-ForkByMrCakes931) | upstream fork | Unclassified | Open-source decentralized AI swarm collective- Public experiment | [TushkaLoLz31337/tushka-swarm-collective](https://github.com/TushkaLoLz31337/tushka-swarm-collective) |
 | [uss-sdk-wrapper-TESTFORK](https://github.com/roberthuffman/uss-sdk-wrapper-TESTFORK) | controlled test copy | Unclassified | Universal Sovereign Scaffolding - Client SDK (Plane 1 - Local Molecularization Engine). controlled test fork. | Not applicable / not recorded |
 
-<sub>4 repository records in this account section.</sub>
+<sub>5 repository records in this account section.</sub>
 
 ### [Ryzean84](https://github.com/Ryzean84)
 
@@ -198,8 +201,9 @@ Research workspace profile and a fork of the main-account OSINT tools directory
 | [Open-Journalism-Evidence-Kit](https://github.com/Ryzean84/Open-Journalism-Evidence-Kit) | original project | Unclassified | A portable, local-first toolkit for evidence provenance, source verification, reproducible public-interest research and correction tracking. | Not applicable / not recorded |
 | [repo-mesh-blueprint-ControlledFork-by-MrCakes931](https://github.com/Ryzean84/repo-mesh-blueprint-ControlledFork-by-MrCakes931) | upstream fork | Unclassified | Controlled Fork by Robert Huffman, on Ryzean84 account. Tester Fork. 11/22/26 - 1:35am MT - Federated repository mesh architectural standard defining recursive M × (1 + 1 + N) topology, crash-safe WAL checkpointing, runtime reconstruction, dependency contracts, failure ledgers, and controlled private-to-public projection. | [HuffmanMainNode/repo-mesh-blueprint](https://github.com/HuffmanMainNode/repo-mesh-blueprint) |
 | [Ryzean84](https://github.com/Ryzean84/Ryzean84) | profile | Unclassified | Intelligence Architecture & Data Telemetry | Not applicable / not recorded |
+| [tushka-swarm-collective-ForkByRyzean84](https://github.com/Ryzean84/tushka-swarm-collective-ForkByRyzean84) | upstream fork | Unclassified | Open-source decentralized AI swarm collective- Public experiment | [TushkaLoLz31337/tushka-swarm-collective](https://github.com/TushkaLoLz31337/tushka-swarm-collective) |
 
-<sub>6 repository records in this account section.</sub>
+<sub>7 repository records in this account section.</sub>
 
 ## Classification and evidence
 

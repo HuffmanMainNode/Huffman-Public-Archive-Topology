@@ -1,27 +1,27 @@
 {
   "schema_version": "1.1.0",
-  "snapshot_date": "2026-11-22",
-  "last_verified_at": "2026-11-22T19:54:46Z",
+  "snapshot_date": "2026-11-24",
+  "last_verified_at": "2026-11-24T00:09:39Z",
   "scope": "All public repositories across the six configured accounts; private repositories are excluded.",
   "counts": {
     "account_count": 6,
-    "public_repositories": 121,
+    "public_repositories": 125,
     "original_project_repositories": 92,
-    "upstream_forks": 22,
+    "upstream_forks": 26,
     "controlled_test_copies": 1,
     "profile_repositories": 6,
     "by_account": {
       "HuffmanMainNode": {
-        "public": 52,
+        "public": 53,
         "original_projects": 37,
-        "forks": 14,
+        "forks": 15,
         "controlled_test_copies": 0,
         "profiles": 1
       },
       "PCakes303": {
-        "public": 33,
+        "public": 34,
         "original_projects": 32,
-        "forks": 0,
+        "forks": 1,
         "controlled_test_copies": 0,
         "profiles": 1
       },
@@ -40,30 +40,30 @@
         "profiles": 1
       },
       "roberthuffman": {
-        "public": 4,
+        "public": 5,
         "original_projects": 0,
-        "forks": 2,
+        "forks": 3,
         "controlled_test_copies": 1,
         "profiles": 1
       },
       "Ryzean84": {
-        "public": 6,
+        "public": 7,
         "original_projects": 2,
-        "forks": 3,
+        "forks": 4,
         "controlled_test_copies": 0,
         "profiles": 1
       }
     },
     "main_account": {
-      "public_repositories": 52,
+      "public_repositories": 53,
       "original_projects": 37,
-      "upstream_forks": 14,
+      "upstream_forks": 15,
       "profiles": 1
     },
     "alternate_accounts": {
-      "public_repositories": 69,
+      "public_repositories": 72,
       "original_projects": 55,
-      "upstream_forks": 8,
+      "upstream_forks": 11,
       "controlled_test_copies": 1,
       "profiles": 5
     }
@@ -73,23 +73,23 @@
       "login": "HuffmanMainNode",
       "role": "Primary public portfolio and archive index",
       "url": "https://github.com/HuffmanMainNode",
-      "public_repositories": 52,
+      "public_repositories": 53,
       "original_projects": 37,
-      "forks": 14,
+      "forks": 15,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T19:54:46Z"
+      "last_verified_at": "2026-11-24T00:09:39Z"
     },
     {
       "login": "PCakes303",
       "role": "MrCakes931 Agent Intelligence Ecosystem; canonical control plane, agent foundations, protocols, swarm, OSINT/evidence, adoption, and governance",
       "url": "https://github.com/PCakes303",
-      "public_repositories": 33,
+      "public_repositories": 34,
       "original_projects": 32,
-      "forks": 0,
+      "forks": 1,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T19:54:46Z"
+      "last_verified_at": "2026-11-24T00:09:39Z"
     },
     {
       "login": "HuffmanRepositories",
@@ -100,7 +100,7 @@
       "forks": 0,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T19:54:46Z"
+      "last_verified_at": "2026-11-24T00:09:39Z"
     },
     {
       "login": "midnightlolz31337",
@@ -111,29 +111,29 @@
       "forks": 3,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T19:54:46Z"
+      "last_verified_at": "2026-11-24T00:09:39Z"
     },
     {
       "login": "roberthuffman",
       "role": "Controlled testing copies and profile; no distinct original project counted in this snapshot",
       "url": "https://github.com/roberthuffman",
-      "public_repositories": 4,
+      "public_repositories": 5,
       "original_projects": 0,
-      "forks": 2,
+      "forks": 3,
       "controlled_test_copies": 1,
       "profile_repositories": 1,
-      "last_verified_at": "2026-11-22T19:54:46Z"
+      "last_verified_at": "2026-11-24T00:09:39Z"
     },
     {
       "login": "Ryzean84",
       "role": "Research workspace profile and a fork of the main-account OSINT tools directory",
       "url": "https://github.com/Ryzean84",
-      "public_repositories": 6,
+      "public_repositories": 7,
       "original_projects": 2,
-      "forks": 3,
+      "forks": 4,
       "profile_repositories": 1,
       "controlled_test_copies": 0,
-      "last_verified_at": "2026-11-22T19:54:46Z"
+      "last_verified_at": "2026-11-24T00:09:39Z"
     }
   ]
 }
