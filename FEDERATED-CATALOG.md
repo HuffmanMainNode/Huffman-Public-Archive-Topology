@@ -4,8 +4,8 @@ Human-readable directory for the six-account public collection. Repository names
 
 ## Collection at a glance
 
-- Snapshot: 2026-11-24
-- Last verified: 2026-11-24T22:39:50Z
+- Snapshot: 2026-11-25
+- Last verified: 2026-11-25T21:53:15Z
 - Accounts: 6
 - Public repositories: 125
 - Original project repositories (including portfolio index): 92
