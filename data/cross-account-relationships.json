@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1.0",
-  "snapshot_date": "2026-11-26",
+  "snapshot_date": "2026-11-27",
   "relationship_semantics": "Edges distinguish GitHub fork lineage, repository-declared dependencies, documented interoperability references, and profile/navigation links. None implies a tested runtime connection unless explicitly stated by the source.",
   "fork_lineage": [
     {
@@ -8,182 +8,182 @@
       "to": "arcprize/ARC-AGI-3-Agents",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "HuffmanMainNode/ELITE-Agent-Commons-ForkByMrCakes931",
       "to": "midnightlolz31337/ELITE-Agent-Commons",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "HuffmanMainNode/ELITE-Ingestion-Core-ForkByMrCakes931",
       "to": "midnightlolz31337/ELITE-Ingestion-Core",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "HuffmanMainNode/ELITE-Protocol-ForkByMrCakes931",
       "to": "midnightlolz31337/ELITE-Protocol",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "HuffmanMainNode/Huffman-Network-Atlas-ForkByMrCakes931",
       "to": "midnightlolz31337/Huffman-Network-Atlas",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "HuffmanMainNode/Shadowbroker-MrCakes931--TestingFork",
       "to": "BigBodyCobain/Shadowbroker",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "HuffmanMainNode/bit-chat-Jibberlink",
       "to": "permissionlesstech/bitchat-android",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "HuffmanMainNode/council-of-high-intelligence-ForkByMrCakes931",
       "to": "0xNyk/council-of-high-intelligence",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "HuffmanMainNode/cvelistV5-ForkByMrCakes931",
       "to": "CVEProject/cvelistV5",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "HuffmanMainNode/ghidra-ForkByMrCakes931",
       "to": "NationalSecurityAgency/ghidra",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "HuffmanMainNode/opencode-beta-MrCakes931-Testing",
       "to": "anomalyco/opencode-beta",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "HuffmanMainNode/opentui-Fork-MrCakes931",
       "to": "anomalyco/opentui",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "HuffmanMainNode/osiris-ForkByMrCakes931",
       "to": "simplifaisoul/osiris",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "HuffmanMainNode/skills-service-ForkByMrCakes931-ZEROTRUST",
       "to": "NationalSecurityAgency/skills-service",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "HuffmanMainNode/tushka-swarm-collective-ForkByHuffmanMainNode",
       "to": "TushkaLoLz31337/tushka-swarm-collective",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "PCakes303/Huffman-Public-Archive-Topology",
       "to": "HuffmanMainNode/Huffman-Public-Archive-Topology",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "Ryzean84/Curated-Modern-OSINT-Tools-ForkBy_Ryzean84",
       "to": "HuffmanMainNode/Curated-Modern-OSINT-Tools",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "Ryzean84/mesh-archivist-engine-ControlledFork-by-MrCakes931-",
       "to": "HuffmanMainNode/mesh-archivist-engine",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "Ryzean84/repo-mesh-blueprint-ControlledFork-by-MrCakes931",
       "to": "HuffmanMainNode/repo-mesh-blueprint",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "Ryzean84/tushka-swarm-collective-ForkByRyzean84",
       "to": "TushkaLoLz31337/tushka-swarm-collective",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "midnightlolz31337/Huffman-Public-Archive-Topology-Fork",
       "to": "HuffmanMainNode/Huffman-Public-Archive-Topology",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "midnightlolz31337/mesh-archivist-engine-LoLz",
       "to": "HuffmanMainNode/mesh-archivist-engine",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "midnightlolz31337/repo-mesh-blueprint-LoLz",
       "to": "HuffmanMainNode/repo-mesh-blueprint",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "roberthuffman/Cui-Bono-Audit-Tool-TestFork",
       "to": "HuffmanMainNode/Cui-Bono-Audit-Tool",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "roberthuffman/Protocol-Helios-ControlledTestFork",
       "to": "HuffmanMainNode/Protocol-Helios",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     },
     {
       "from": "roberthuffman/tushka-swarm-collective-ForkByMrCakes931",
       "to": "TushkaLoLz31337/tushka-swarm-collective",
       "type": "github_fork",
       "verified": true,
-      "last_verified_at": "2026-11-26T21:48:19Z"
+      "last_verified_at": "2026-11-27T21:30:18Z"
     }
   ],
   "documented_interoperability": [
